@@ -1,18 +1,11 @@
-from pathlib import Path
-
-import pandas as pd
-
-from data_gathering.flat_column_database import FlatColumnDatabase
+from data_scraping.dynamic_content_loader import DynamicContentLoader
+from data_scraping.pokemon_table_scraper import PokemonTableScraper
+from data_scraping.web_driver import WebDriver
 
 
 if __name__ == '__main__':
-    path_database = Path('resources\\first_party_data\\pokemon_database.txt')
-    path_tiers = Path('resources\\first_party_data\\tiers.txt')
-    
-    tiers = pd.read_csv(path_tiers, header=None).squeeze()
+    web_driver = WebDriver.build()
+    html = DynamicContentLoader.load_html('https://dex.pokemonshowdown.com/pokemon/', web_driver)
 
-    flat_column_database = FlatColumnDatabase(path_database)
-    transposed_groups = flat_column_database.iterate_transposed_groups(s_group_delimiters=tiers)
-
-    for group in transposed_groups:
-        print(group)
+    df_table = PokemonTableScraper(html).df_table
+    print(df_table)

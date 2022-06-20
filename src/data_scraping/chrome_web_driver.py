@@ -3,9 +3,10 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
-class WebDriver:
+
+class ChromeWebDriver:
     @classmethod
-    def build(cls):
+    def build(cls) -> webdriver.Chrome:
         options = Options()
         options.add_argument('start-maximized')
 

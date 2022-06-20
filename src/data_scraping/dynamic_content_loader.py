@@ -5,9 +5,9 @@ from selenium import webdriver
 
 class DynamicContentLoader:
     @classmethod
-    def load_html(cls, url: str, web_driver: webdriver.Chrome, load_time: int=5) -> str:
-        with web_driver:
-            web_driver.get(url)
+    def load_html(cls, url: str, chrome_web_driver: webdriver.Chrome, load_time: int=5) -> str:
+        with chrome_web_driver:
+            chrome_web_driver.get(url)
             time.sleep(load_time)
 
-            return web_driver.page_source
+            return chrome_web_driver.page_source

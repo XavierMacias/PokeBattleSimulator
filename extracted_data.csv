@@ -1,0 +1,21 @@
+tier,name,hability_1,hability_2,HP,Atk,Def,SpA,SpD,Spe,BST
+LC,Bulbasaur,Overgrow,Chlorophyll,45,49,49,65,65,45,318
+NFE,Ivysaur,Overgrow,Chlorophyll,60,62,63,80,80,60,405
+UU,Venusaur,Overgrow,Chlorophyll,80,82,83,100,100,80,525
+Illegal,Venusaur-Mega,Thick Fat,,80,100,123,122,120,80,625
+AG,Venusaur-Gmax,Overgrow,Chlorophyll,80,82,83,100,100,80,525
+LC,Charmander,Blaze,Solar Power,39,52,43,60,50,65,309
+NFE,Charmeleon,Blaze,Solar Power,58,64,58,80,65,80,405
+PU,Charizard,Blaze,Solar Power,78,84,78,109,85,100,534
+Illegal,Charizard-Mega-X,Tough Claws,,78,130,111,130,85,100,634
+Illegal,Charizard-Mega-Y,Drought,,78,104,78,159,115,100,634
+AG,Charizard-Gmax,Blaze,Solar Power,78,84,78,109,85,100,534
+LC,Squirtle,Torrent,Rain Dish,44,48,65,50,64,43,314
+NFE,Wartortle,Torrent,Rain Dish,59,63,80,65,80,58,405
+NU,Blastoise,Torrent,Rain Dish,79,83,100,85,105,78,530
+Illegal,Blastoise-Mega,Mega Launcher,,79,103,120,135,115,78,630
+AG,Blastoise-Gmax,Torrent,Rain Dish,79,83,100,85,105,78,530
+LC,Caterpie,Shield Dust,Run Away,45,30,35,20,20,45,195
+NFE,Metapod,Shed Skin,,50,20,55,25,25,30,205
+(PU),Butterfree,Compound Eyes,Tinted Lens,60,45,50,90,80,70,395
+AG,Butterfree-Gmax,Compound Eyes,Tinted Lens,60,45,50,90,80,70,395

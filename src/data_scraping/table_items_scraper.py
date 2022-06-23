@@ -1,29 +1,23 @@
-import itertools
-from collections import OrderedDict
-from typing import Iterator
+from typing import Iterable, Iterator
 
 import pandas as pd
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag
 
 
 class TableItemsScraper:
     @classmethod
-    def scrap_per_rows(cls, html: str, class_row_items: str) -> Iterator[str]:
-        soup = BeautifulSoup(html, 'html.parser')
+    def scrap_row_image_attribute(cls, soup: BeautifulSoup, image_attribute: str)-> Iterator[Iterable[pd.Series]]:
+        return (
+            [cls.__scrap_tag_attribute(tag, image_attribute)]
+            for tag in soup.find_all(class_='col typecol')
+        )
 
+    @classmethod
+    def scrap_row_text(cls, soup: BeautifulSoup, class_row_items: str) -> Iterator[str]:
         return (result.text for result in soup.find_all(class_=class_row_items))
 
     @classmethod
-    def scrap_types(cls, html: str) -> Iterator[pd.DataFrame]:
-        soup = BeautifulSoup(html, 'html.parser')
+    def __scrap_tag_attribute(cls, tag: Tag, image_attribute: str) -> pd.Series:
+        attributes = [image.attrs[image_attribute] for image in tag.find_all('img')]
 
-        for result in soup.find_all(class_='col typecol'):
-            images = result.find_all('img')
-            found_types = OrderedDict.fromkeys((image.attrs['alt'] for image in images))
-            
-            types_desc = ['type_1', 'type_2']
-            types_mapping = dict(itertools.zip_longest(types_desc, found_types, fillvalue=None))
-
-            df = pd.DataFrame.from_dict(types_mapping, orient='index').T
-
-            yield df
+        return pd.Series(attributes)

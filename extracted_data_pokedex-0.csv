@@ -1,0 +1,1270 @@
+tier,name,hability_1,hability_2,hidden_hability,HP,Atk,Def,SpA,SpD,Spe,BST
+LC,Bulbasaur,Overgrow,Chlorophyll,,45,49,49,65,65,45,318
+NFE,Ivysaur,Overgrow,Chlorophyll,,60,62,63,80,80,60,405
+UU,Venusaur,Overgrow,Chlorophyll,,80,82,83,100,100,80,525
+Illegal,Venusaur-Mega,Thick Fat,,,80,100,123,122,120,80,625
+AG,Venusaur-Gmax,Overgrow,Chlorophyll,,80,82,83,100,100,80,525
+LC,Charmander,Blaze,Solar Power,,39,52,43,60,50,65,309
+NFE,Charmeleon,Blaze,Solar Power,,58,64,58,80,65,80,405
+PU,Charizard,Blaze,Solar Power,,78,84,78,109,85,100,534
+Illegal,Charizard-Mega-X,Tough Claws,,,78,130,111,130,85,100,634
+Illegal,Charizard-Mega-Y,Drought,,,78,104,78,159,115,100,634
+AG,Charizard-Gmax,Blaze,Solar Power,,78,84,78,109,85,100,534
+LC,Squirtle,Torrent,Rain Dish,,44,48,65,50,64,43,314
+NFE,Wartortle,Torrent,Rain Dish,,59,63,80,65,80,58,405
+NU,Blastoise,Torrent,Rain Dish,,79,83,100,85,105,78,530
+Illegal,Blastoise-Mega,Mega Launcher,,,79,103,120,135,115,78,630
+AG,Blastoise-Gmax,Torrent,Rain Dish,,79,83,100,85,105,78,530
+LC,Caterpie,Shield Dust,Run Away,,45,30,35,20,20,45,195
+NFE,Metapod,Shed Skin,,,50,20,55,25,25,30,205
+(PU),Butterfree,Compound Eyes,Tinted Lens,,60,45,50,90,80,70,395
+AG,Butterfree-Gmax,Compound Eyes,Tinted Lens,,60,45,50,90,80,70,395
+Illegal,Weedle,Shield Dust,Run Away,,40,35,30,20,20,50,195
+Illegal,Kakuna,Shed Skin,,,45,25,50,25,25,35,205
+Illegal,Beedrill,Swarm,Sniper,,65,90,40,45,80,75,395
+Illegal,Beedrill-Mega,Adaptability,,,65,150,40,15,80,145,495
+Illegal,Pidgey,Keen Eye,Tangled Feet,Big Pecks,40,45,40,35,35,56,251
+Illegal,Pidgeotto,Keen Eye,Tangled Feet,Big Pecks,63,60,55,50,50,71,349
+Illegal,Pidgeot,Keen Eye,Tangled Feet,Big Pecks,83,80,75,70,70,101,479
+Illegal,Pidgeot-Mega,No Guard,,,83,80,80,135,80,121,579
+Illegal,Rattata,Run Away,Guts,Hustle,30,56,35,25,35,72,253
+Illegal,Rattata-Alola,Gluttony,Hustle,Thick Fat,30,56,35,25,35,72,253
+Illegal,Raticate,Run Away,Guts,Hustle,55,81,60,50,70,97,413
+Illegal,Raticate-Alola,Gluttony,Hustle,Thick Fat,75,71,70,40,80,77,413
+Illegal,Raticate-Alola-Totem,Thick Fat,,,75,71,70,40,80,77,413
+Illegal,Spearow,Keen Eye,Sniper,,40,60,30,31,31,70,262
+Illegal,Fearow,Keen Eye,Sniper,,65,90,65,61,61,100,442
+Illegal,Ekans,Intimidate,Shed Skin,Unnerve,35,60,44,40,54,55,288
+Illegal,Arbok,Intimidate,Shed Skin,Unnerve,60,95,69,65,79,80,448
+NFE,Pikachu,Static,Lightning Rod,,35,55,40,50,50,90,320
+Illegal,Pikachu-Rock-Star,Lightning Rod,,,35,55,40,50,50,90,320
+Illegal,Pikachu-Belle,Lightning Rod,,,35,55,40,50,50,90,320
+Illegal,Pikachu-Pop-Star,Lightning Rod,,,35,55,40,50,50,90,320
+Illegal,Pikachu-PhD,Lightning Rod,,,35,55,40,50,50,90,320
+Illegal,Pikachu-Libre,Lightning Rod,,,35,55,40,50,50,90,320
+(PU),Pikachu-Original,Static,Lightning Rod,,35,55,40,50,50,90,320
+(PU),Pikachu-Hoenn,Static,Lightning Rod,,35,55,40,50,50,90,320
+(PU),Pikachu-Sinnoh,Static,Lightning Rod,,35,55,40,50,50,90,320
+(PU),Pikachu-Unova,Static,Lightning Rod,,35,55,40,50,50,90,320
+(PU),Pikachu-Kalos,Static,Lightning Rod,,35,55,40,50,50,90,320
+(PU),Pikachu-Alola,Static,Lightning Rod,,35,55,40,50,50,90,320
+(PU),Pikachu-Partner,Static,Lightning Rod,,35,55,40,50,50,90,320
+Illegal,Pikachu-Starter,Static,Lightning Rod,,45,80,50,75,60,120,430
+AG,Pikachu-Gmax,Static,Lightning Rod,,35,55,40,50,50,90,320
+(PU),Pikachu-World,Static,Lightning Rod,,35,55,40,50,50,90,320
+(PU),Raichu,Static,Lightning Rod,,60,90,55,90,80,110,485
+PUBL,Raichu-Alola,Surge Surfer,,,60,85,50,95,85,110,485
+LC,Sandshrew,Sand Veil,Sand Rush,,50,75,85,20,30,40,300
+NUBL,Sandshrew-Alola,Snow Cloak,Slush Rush,,50,75,90,10,35,40,300
+PU,Sandslash,Sand Veil,Sand Rush,,75,100,110,45,55,65,450
+NUBL,Sandslash-Alola,Snow Cloak,Slush Rush,,75,100,120,25,65,65,450
+LC,Nidoran-F,Poison Point,Rivalry,Hustle,55,47,52,40,40,41,275
+NFE,Nidorina,Poison Point,Rivalry,Hustle,70,62,67,55,55,56,365
+RU,Nidoqueen,Poison Point,Rivalry,Sheer Force,90,92,87,75,85,76,505
+LC,Nidoran-M,Poison Point,Rivalry,Hustle,46,57,40,40,40,50,273
+NFE,Nidorino,Poison Point,Rivalry,Hustle,61,72,57,55,55,65,365
+UU,Nidoking,Poison Point,Rivalry,Sheer Force,81,102,77,85,75,85,505
+NFE,Clefairy,Cute Charm,Magic Guard,Friend Guard,70,45,48,60,65,35,323
+OU,Clefable,Cute Charm,Magic Guard,Unaware,95,70,73,95,90,60,483
+LC,Vulpix,Flash Fire,Drought,,38,41,40,50,65,65,299
+NFE,Vulpix-Alola,Snow Cloak,Snow Warning,,38,41,40,50,65,65,299
+(PU),Ninetales,Flash Fire,Drought,,73,76,75,81,100,100,505
+OU,Ninetales-Alola,Snow Cloak,Snow Warning,,73,67,75,81,100,109,505
+NFE,Jigglypuff,Cute Charm,Competitive,Friend Guard,115,45,20,45,25,20,270
+(PU),Wigglytuff,Cute Charm,Competitive,Frisk,140,70,45,85,50,45,435
+LC,Zubat,Inner Focus,Infiltrator,,40,45,35,30,40,55,245
+NFE,Golbat,Inner Focus,Infiltrator,,75,80,70,65,75,90,455
+LC,Oddish,Chlorophyll,Run Away,,45,50,55,75,65,30,320
+NFE,Gloom,Chlorophyll,Stench,,60,65,70,85,75,40,395
+NU,Vileplume,Chlorophyll,Effect Spore,,75,80,85,110,90,50,490
+Illegal,Paras,Effect Spore,Dry Skin,Damp,35,70,55,45,55,25,285
+Illegal,Parasect,Effect Spore,Dry Skin,Damp,60,95,80,60,80,30,405
+Illegal,Venonat,Compound Eyes,Tinted Lens,Run Away,60,55,50,40,55,45,305
+Illegal,Venomoth,Shield Dust,Tinted Lens,Wonder Skin,70,65,60,90,75,90,450
+LC,Diglett,Sand Veil,Arena Trap,Sand Force,10,55,25,35,45,95,265
+LC,Diglett-Alola,Sand Veil,Tangling Hair,Sand Force,10,55,30,35,45,90,265
+(PU),Dugtrio,Sand Veil,Arena Trap,Sand Force,35,100,50,50,70,120,425
+(PU),Dugtrio-Alola,Sand Veil,Tangling Hair,Sand Force,35,100,60,50,70,110,425
+LC,Meowth,Pickup,Technician,Unnerve,40,45,35,40,40,90,290
+LC,Meowth-Alola,Pickup,Technician,Rattled,40,35,35,50,40,90,290
+LC,Meowth-Galar,Pickup,Tough Claws,Unnerve,50,65,55,40,40,40,290
+AG,Meowth-Gmax,Pickup,Technician,Unnerve,40,45,35,40,40,90,290
+(PU),Persian,Limber,Technician,Unnerve,65,70,60,65,65,115,440
+(PU),Persian-Alola,Fur Coat,Technician,Rattled,65,60,60,75,65,115,440
+LC,Psyduck,Damp,Cloud Nine,Swift Swim,50,52,48,65,50,55,320
+(PU),Golduck,Damp,Cloud Nine,Swift Swim,80,82,78,95,80,85,500
+Illegal,Mankey,Vital Spirit,Anger Point,Defiant,40,80,35,35,45,70,305
+Illegal,Primeape,Vital Spirit,Anger Point,Defiant,65,105,60,60,70,95,455
+LC,Growlithe,Intimidate,Flash Fire,Justified,55,70,45,70,50,60,350
+Illegal,Growlithe-Hisui,Intimidate,Flash Fire,Justified,60,75,45,65,50,55,350
+NU,Arcanine,Intimidate,Flash Fire,Justified,90,110,80,100,80,95,555
+Illegal,Arcanine-Hisui,Intimidate,Flash Fire,Justified,95,115,80,95,80,90,555
+LC,Poliwag,Water Absorb,Damp,Swift Swim,40,50,40,40,40,90,300
+NFE,Poliwhirl,Water Absorb,Damp,Swift Swim,65,65,65,50,50,90,385
+(PU),Poliwrath,Water Absorb,Damp,Swift Swim,90,95,95,70,90,70,510
+LC,Abra,Synchronize,Inner Focus,Magic Guard,25,20,15,105,55,90,310
+NFE,Kadabra,Synchronize,Inner Focus,Magic Guard,40,35,30,120,70,105,400
+UUBL,Alakazam,Synchronize,Inner Focus,Magic Guard,55,50,45,135,95,120,500
+Illegal,Alakazam-Mega,Trace,,,55,50,65,175,105,150,600
+LC,Machop,Guts,No Guard,Steadfast,70,80,50,35,35,35,305
+NFE,Machoke,Guts,No Guard,Steadfast,80,100,70,50,60,45,405
+NU,Machamp,Guts,No Guard,Steadfast,90,130,80,65,85,55,505
+AG,Machamp-Gmax,Guts,No Guard,Steadfast,90,130,80,65,85,55,505
+Illegal,Bellsprout,Chlorophyll,Gluttony,,50,75,35,70,30,40,300
+Illegal,Weepinbell,Chlorophyll,Gluttony,,65,90,50,85,45,55,390
+Illegal,Victreebel,Chlorophyll,Gluttony,,80,105,65,100,70,70,490
+LC,Tentacool,Clear Body,Liquid Ooze,Rain Dish,40,40,35,50,100,70,335
+UU,Tentacruel,Clear Body,Liquid Ooze,Rain Dish,80,70,65,80,120,100,515
+Illegal,Geodude,Rock Head,Sturdy,Sand Veil,40,80,100,30,30,20,300
+Illegal,Geodude-Alola,Magnet Pull,Sturdy,Galvanize,40,80,100,30,30,20,300
+Illegal,Graveler,Rock Head,Sturdy,Sand Veil,55,95,115,45,45,35,390
+Illegal,Graveler-Alola,Magnet Pull,Sturdy,Galvanize,55,95,115,45,45,35,390
+Illegal,Golem,Rock Head,Sturdy,Sand Veil,80,120,130,55,65,45,495
+Illegal,Golem-Alola,Magnet Pull,Sturdy,Galvanize,80,120,130,55,65,45,495
+LC,Ponyta,Run Away,Flash Fire,Flame Body,50,85,55,65,65,90,410
+LC,Ponyta-Galar,Run Away,Pastel Veil,Anticipation,50,85,55,65,65,90,410
+(PU),Rapidash,Run Away,Flash Fire,Flame Body,65,100,70,80,80,105,500
+(PU),Rapidash-Galar,Run Away,Pastel Veil,Anticipation,65,100,70,80,80,105,500
+LC,Slowpoke,Oblivious,Own Tempo,Regenerator,90,65,65,40,40,15,315
+LC,Slowpoke-Galar,Gluttony,Own Tempo,Regenerator,90,65,65,40,40,15,315
+OU,Slowbro,Oblivious,Own Tempo,Regenerator,95,75,110,100,80,30,490
+Illegal,Slowbro-Mega,Shell Armor,,,95,75,180,130,80,30,590
+RUBL,Slowbro-Galar,Quick Draw,Own Tempo,Regenerator,95,100,95,100,70,30,490
+LC,Magnemite,Magnet Pull,Sturdy,Analytic,25,35,70,95,55,45,325
+PU,Magneton,Magnet Pull,Sturdy,Analytic,50,60,95,120,70,70,465
+(PU),Farfetch’d,Keen Eye,Inner Focus,Defiant,52,90,55,58,62,60,377
+LC,Farfetch’d-Galar,Steadfast,Scrappy,,52,95,55,58,62,55,377
+Illegal,Doduo,Run Away,Early Bird,Tangled Feet,35,85,45,35,35,75,310
+Illegal,Dodrio,Run Away,Early Bird,Tangled Feet,60,110,70,60,60,110,470
+Illegal,Seel,Thick Fat,Hydration,Ice Body,65,45,55,45,70,45,325
+Illegal,Dewgong,Thick Fat,Hydration,Ice Body,90,70,80,70,95,70,475
+Illegal,Grimer,Stench,Sticky Hold,Poison Touch,80,80,50,40,50,25,325
+Illegal,Grimer-Alola,Poison Touch,Gluttony,Power of Alchemy,80,80,50,40,50,25,325
+Illegal,Muk,Stench,Sticky Hold,Poison Touch,105,105,75,65,100,50,500
+Illegal,Muk-Alola,Poison Touch,Gluttony,Power of Alchemy,105,105,75,65,100,50,500
+LC,Shellder,Shell Armor,Skill Link,Overcoat,30,65,100,45,25,40,305
+RU,Cloyster,Shell Armor,Skill Link,Overcoat,50,95,180,85,45,70,525
+NFE,Gastly,Levitate,,,30,35,30,100,35,80,310
+NFE,Haunter,Levitate,,,45,50,45,115,55,95,405
+UUBL,Gengar,Cursed Body,,,60,65,60,130,75,110,500
+Illegal,Gengar-Mega,Shadow Tag,,,60,65,80,170,95,130,600
+AG,Gengar-Gmax,Cursed Body,,,60,65,60,130,75,110,500
+LC,Onix,Rock Head,Sturdy,Weak Armor,35,45,160,30,45,70,385
+Illegal,Drowzee,Insomnia,Forewarn,Inner Focus,60,48,45,43,90,42,328
+Illegal,Hypno,Insomnia,Forewarn,Inner Focus,85,73,70,73,115,67,483
+LC,Krabby,Hyper Cutter,Shell Armor,Sheer Force,30,105,90,25,25,50,325
+PUBL,Kingler,Hyper Cutter,Shell Armor,Sheer Force,55,130,115,50,50,75,475
+AG,Kingler-Gmax,Hyper Cutter,Shell Armor,Sheer Force,55,130,115,50,50,75,475
+Illegal,Voltorb,Soundproof,Static,Aftermath,40,30,50,55,55,100,330
+Illegal,Voltorb-Hisui,Soundproof,Static,Aftermath,40,30,50,55,55,100,330
+Illegal,Electrode,Soundproof,Static,Aftermath,60,50,70,80,80,150,490
+Illegal,Electrode-Hisui,Soundproof,Static,Aftermath,60,50,70,80,80,150,490
+LC,Exeggcute,Chlorophyll,Harvest,,60,40,80,60,45,40,325
+(PU),Exeggutor,Chlorophyll,Harvest,,95,95,85,125,75,55,530
+PUBL,Exeggutor-Alola,Frisk,Harvest,,95,105,85,125,75,45,530
+LC,Cubone,Rock Head,Lightning Rod,Battle Armor,50,50,95,40,50,35,320
+(PU),Marowak,Rock Head,Lightning Rod,Battle Armor,60,80,110,50,80,45,425
+RU,Marowak-Alola,Cursed Body,Lightning Rod,Rock Head,60,80,110,50,80,45,425
+Illegal,Marowak-Alola-Totem,Rock Head,,,60,80,110,50,80,45,425
+PU,Hitmonlee,Limber,Reckless,Unburden,50,120,53,35,110,87,455
+(PU),Hitmonchan,Keen Eye,Iron Fist,Inner Focus,50,105,79,35,110,76,455
+LC,Lickitung,Own Tempo,Oblivious,Cloud Nine,90,55,75,60,75,30,385
+LC,Koffing,Levitate,Neutralizing Gas,Stench,40,65,95,60,45,35,340
+PU,Weezing,Levitate,Neutralizing Gas,Stench,65,90,120,85,70,60,490
+RU,Weezing-Galar,Levitate,Neutralizing Gas,Misty Surge,65,90,120,85,70,60,490
+LC,Rhyhorn,Lightning Rod,Rock Head,Reckless,80,85,95,30,30,25,345
+NFE,Rhydon,Lightning Rod,Rock Head,Reckless,105,130,120,45,45,40,485
+UU,Chansey,Natural Cure,Serene Grace,Healer,250,5,5,35,105,50,450
+NFE,Tangela,Chlorophyll,Leaf Guard,Regenerator,65,55,115,100,40,60,435
+(PU),Kangaskhan,Early Bird,Scrappy,Inner Focus,105,95,80,40,80,90,490
+Illegal,Kangaskhan-Mega,Parental Bond,,,105,125,100,60,100,100,590
+LC,Horsea,Swift Swim,Sniper,Damp,30,40,70,70,25,60,295
+NFE,Seadra,Poison Point,Sniper,Damp,55,65,95,95,45,85,440
+LC,Goldeen,Swift Swim,Water Veil,Lightning Rod,45,67,60,35,50,63,320
+(PU),Seaking,Swift Swim,Water Veil,Lightning Rod,80,92,65,65,80,68,450
+LC,Staryu,Illuminate,Natural Cure,Analytic,30,45,55,70,55,85,340
+NU,Starmie,Illuminate,Natural Cure,Analytic,60,75,85,100,85,115,520
+(PU),Mr. Mime,Soundproof,Filter,Technician,40,45,65,100,120,90,460
+NFE,Mr. Mime-Galar,Vital Spirit,Screen Cleaner,Ice Body,50,65,65,90,90,100,460
+PU,Scyther,Swarm,Technician,Steadfast,70,110,80,55,80,105,500
+(PU),Jynx,Oblivious,Forewarn,Dry Skin,65,50,35,115,95,95,455
+NFE,Electabuzz,Static,Vital Spirit,,65,83,57,95,85,105,490
+NFE,Magmar,Flame Body,Vital Spirit,,65,95,57,100,85,93,495
+(PU),Pinsir,Hyper Cutter,Mold Breaker,Moxie,65,125,100,55,70,85,500
+Illegal,Pinsir-Mega,Aerilate,,,65,155,120,65,90,105,600
+NU,Tauros,Intimidate,Anger Point,Sheer Force,75,100,95,40,70,110,490
+LC,Magikarp,Swift Swim,Rattled,,20,10,55,15,20,80,200
+UU,Gyarados,Intimidate,Moxie,,95,125,79,60,100,81,540
+Illegal,Gyarados-Mega,Mold Breaker,,,95,155,109,70,130,81,640
+(PU),Lapras,Water Absorb,Shell Armor,Hydration,130,85,80,85,95,60,535
+AG,Lapras-Gmax,Water Absorb,Shell Armor,Hydration,130,85,80,85,95,60,535
+(PU),Ditto,Limber,Imposter,,48,48,48,48,48,48,288
+LC,Eevee,Run Away,Adaptability,Anticipation,55,55,50,45,65,55,325
+Illegal,Eevee-Starter,Run Away,Adaptability,Anticipation,65,75,70,65,85,75,435
+AG,Eevee-Gmax,Run Away,Adaptability,Anticipation,55,55,50,45,65,55,325
+NU,Vaporeon,Water Absorb,Hydration,,130,65,60,110,95,65,525
+PU,Jolteon,Volt Absorb,Quick Feet,,65,65,60,110,95,130,525
+(PU),Flareon,Flash Fire,Guts,,65,130,60,95,110,65,525
+LC,Porygon,Trace,Download,Analytic,65,60,70,85,75,40,395
+LC,Omanyte,Swift Swim,Shell Armor,Weak Armor,35,40,100,90,55,35,355
+PUBL,Omastar,Swift Swim,Shell Armor,Weak Armor,70,60,125,115,70,55,495
+LC,Kabuto,Swift Swim,Battle Armor,Weak Armor,30,80,90,55,45,55,355
+(PU),Kabutops,Swift Swim,Battle Armor,Weak Armor,60,115,105,65,70,80,495
+NU,Aerodactyl,Rock Head,Pressure,Unnerve,80,105,65,60,75,130,515
+Illegal,Aerodactyl-Mega,Tough Claws,,,80,135,85,70,95,150,615
+NU,Snorlax,Immunity,Thick Fat,Gluttony,160,110,65,65,110,30,540
+AG,Snorlax-Gmax,Immunity,Thick Fat,Gluttony,160,110,65,65,110,30,540
+(PU),Articuno,Pressure,Snow Cloak,,90,85,100,95,125,85,580
+PU,Articuno-Galar,Competitive,,,90,85,85,125,100,95,580
+OU,Zapdos,Pressure,Static,,90,90,85,125,90,100,580
+OU,Zapdos-Galar,Defiant,,,90,125,90,85,90,100,580
+UU,Moltres,Pressure,Flame Body,,90,100,90,125,85,90,580
+UUBL,Moltres-Galar,Berserk,,,90,85,90,100,125,90,580
+LC,Dratini,Shed Skin,Marvel Scale,,41,64,45,50,50,50,300
+NFE,Dragonair,Shed Skin,Marvel Scale,,61,84,65,70,70,70,420
+OU,Dragonite,Inner Focus,Multiscale,,91,134,95,100,100,80,600
+Uber,Mewtwo,Pressure,Unnerve,,106,110,90,154,90,130,680
+Illegal,Mewtwo-Mega-X,Steadfast,,,106,190,100,154,100,130,780
+Illegal,Mewtwo-Mega-Y,Insomnia,,,106,150,70,194,120,140,780
+OU,Mew,Synchronize,,,100,100,100,100,100,100,600
+Illegal,Chikorita,Overgrow,Leaf Guard,,45,49,65,49,65,45,318
+Illegal,Bayleef,Overgrow,Leaf Guard,,60,62,80,63,80,60,405
+Illegal,Meganium,Overgrow,Leaf Guard,,80,82,100,83,100,80,525
+Illegal,Cyndaquil,Blaze,Flash Fire,,39,52,43,60,50,65,309
+Illegal,Quilava,Blaze,Flash Fire,,58,64,58,80,65,80,405
+Illegal,Typhlosion,Blaze,Flash Fire,,78,84,78,109,85,100,534
+Illegal,Typhlosion-Hisui,Blaze,Flash Fire,,73,84,78,119,85,95,534
+Illegal,Totodile,Torrent,Sheer Force,,50,65,64,44,48,43,314
+Illegal,Croconaw,Torrent,Sheer Force,,65,80,80,59,63,58,405
+Illegal,Feraligatr,Torrent,Sheer Force,,85,105,100,79,83,78,530
+Illegal,Sentret,Run Away,Keen Eye,Frisk,35,46,34,35,45,20,215
+Illegal,Furret,Run Away,Keen Eye,Frisk,85,76,64,45,55,90,415
+LC,Hoothoot,Insomnia,Keen Eye,Tinted Lens,60,30,30,36,56,50,262
+(PU),Noctowl,Insomnia,Keen Eye,Tinted Lens,100,50,50,86,96,70,452
+Illegal,Ledyba,Swarm,Early Bird,Rattled,40,20,30,40,80,55,265
+Illegal,Ledian,Swarm,Early Bird,Iron Fist,55,35,50,55,110,85,390
+Illegal,Spinarak,Swarm,Insomnia,Sniper,40,60,40,40,40,30,250
+Illegal,Ariados,Swarm,Insomnia,Sniper,70,90,70,60,70,40,400
+RU,Crobat,Inner Focus,Infiltrator,,85,90,80,70,80,130,535
+LC,Chinchou,Volt Absorb,Illuminate,Water Absorb,75,38,38,56,56,67,330
+PU,Lanturn,Volt Absorb,Illuminate,Water Absorb,125,58,58,76,76,67,460
+LC,Pichu,Static,Lightning Rod,,20,40,15,35,35,60,205
+Illegal,Pichu-Spiky-eared,Static,,,20,40,15,35,35,60,205
+LC,Cleffa,Cute Charm,Magic Guard,Friend Guard,50,25,28,45,55,15,218
+LC,Igglybuff,Cute Charm,Competitive,Friend Guard,90,30,15,40,20,15,210
+LC,Togepi,Hustle,Serene Grace,Super Luck,35,20,65,40,65,20,245
+NFE,Togetic,Hustle,Serene Grace,Super Luck,55,40,85,80,105,40,405
+LC,Natu,Synchronize,Early Bird,Magic Bounce,40,50,45,70,45,70,320
+NU,Xatu,Synchronize,Early Bird,Magic Bounce,65,75,70,95,70,95,470
+Illegal,Mareep,Static,Plus,,55,40,40,65,45,35,280
+Illegal,Flaaffy,Static,Plus,,70,55,55,80,60,45,365
+Illegal,Ampharos,Static,Plus,,90,75,85,115,90,55,510
+Illegal,Ampharos-Mega,Mold Breaker,,,90,95,105,165,110,45,610
+(PU),Bellossom,Chlorophyll,Healer,,75,80,95,90,100,50,490
+NFE,Marill,Thick Fat,Huge Power,Sap Sipper,70,20,50,20,50,40,250
+UU,Azumarill,Thick Fat,Huge Power,Sap Sipper,100,50,80,60,80,50,420
+(PU),Sudowoodo,Sturdy,Rock Head,Rattled,70,100,115,30,65,30,410
+(PU),Politoed,Water Absorb,Damp,Drizzle,90,75,75,90,100,70,500
+Illegal,Hoppip,Chlorophyll,Leaf Guard,Infiltrator,35,35,40,35,55,50,250
+Illegal,Skiploom,Chlorophyll,Leaf Guard,Infiltrator,55,45,50,45,65,80,340
+Illegal,Jumpluff,Chlorophyll,Leaf Guard,Infiltrator,75,55,70,55,95,110,460
+Illegal,Aipom,Run Away,Pickup,Skill Link,55,70,55,40,55,85,360
+Illegal,Sunkern,Chlorophyll,Solar Power,Early Bird,30,30,30,30,30,30,180
+Illegal,Sunflora,Chlorophyll,Solar Power,Early Bird,75,75,55,105,85,30,425
+Illegal,Yanma,Speed Boost,Compound Eyes,Frisk,65,65,45,75,45,95,390
+LC,Wooper,Damp,Water Absorb,Unaware,55,45,45,25,25,15,210
+PU,Quagsire,Damp,Water Absorb,Unaware,95,85,85,65,65,35,430
+PUBL,Espeon,Synchronize,Magic Bounce,,65,65,60,130,95,110,525
+RU,Umbreon,Synchronize,Inner Focus,,95,65,110,60,130,65,525
+Illegal,Murkrow,Insomnia,Super Luck,Prankster,60,85,42,85,42,91,405
+UU,Slowking,Oblivious,Own Tempo,Regenerator,95,75,80,100,110,30,490
+OU,Slowking-Galar,Curious Medicine,Own Tempo,Regenerator,95,65,80,110,110,30,490
+Illegal,Misdreavus,Levitate,,,60,60,60,85,85,85,435
+Illegal,Unown,Levitate,,,48,72,48,72,48,48,336
+(PU),Wobbuffet,Shadow Tag,Telepathy,,190,33,58,33,58,33,405
+Illegal,Girafarig,Inner Focus,Early Bird,Sap Sipper,70,80,65,90,65,85,455
+Illegal,Pineco,Sturdy,Overcoat,,50,65,90,35,35,15,290
+Illegal,Forretress,Sturdy,Overcoat,,75,90,140,60,60,40,465
+(PU),Dunsparce,Serene Grace,Run Away,Rattled,100,70,70,65,65,45,415
+Illegal,Gligar,Hyper Cutter,Sand Veil,Immunity,65,75,105,35,65,85,430
+RU,Steelix,Rock Head,Sturdy,Sheer Force,75,85,200,55,65,30,510
+Illegal,Steelix-Mega,Sand Force,,,75,125,230,55,95,30,610
+Illegal,Snubbull,Intimidate,Run Away,Rattled,60,80,50,40,40,30,300
+Illegal,Granbull,Intimidate,Quick Feet,Rattled,90,120,75,60,60,45,450
+(PU),Qwilfish,Poison Point,Swift Swim,Intimidate,65,95,85,55,55,85,440
+Illegal,Qwilfish-Hisui,Poison Point,Swift Swim,Intimidate,65,95,85,55,55,85,440
+UU,Scizor,Swarm,Technician,Light Metal,70,130,100,55,80,65,500
+Illegal,Scizor-Mega,Technician,,,70,150,140,65,100,75,600
+(PU),Shuckle,Sturdy,Gluttony,Contrary,20,10,230,10,230,5,505
+RU,Heracross,Swarm,Guts,Moxie,80,125,75,40,95,85,500
+Illegal,Heracross-Mega,Skill Link,,,80,185,115,40,105,75,600
+NFE,Sneasel,Inner Focus,Keen Eye,Pickpocket,55,95,55,35,75,115,430
+Illegal,Sneasel-Hisui,Inner Focus,Keen Eye,Poison Touch,55,95,55,35,75,115,430
+Illegal,Teddiursa,Pickup,Quick Feet,Honey Gather,60,80,50,50,50,40,330
+Illegal,Ursaring,Guts,Quick Feet,Unnerve,90,130,75,75,75,55,500
+Illegal,Slugma,Magma Armor,Flame Body,Weak Armor,40,40,40,70,40,20,250
+Illegal,Magcargo,Magma Armor,Flame Body,Weak Armor,60,50,120,90,80,30,430
+LC,Swinub,Oblivious,Snow Cloak,Thick Fat,50,50,40,30,30,50,250
+NFE,Piloswine,Oblivious,Snow Cloak,Thick Fat,100,100,80,60,60,50,450
+(PU),Corsola,Hustle,Natural Cure,Regenerator,65,55,95,65,95,35,410
+NFE,Corsola-Galar,Weak Armor,Cursed Body,,60,55,100,65,100,30,410
+LC,Remoraid,Hustle,Sniper,Moody,35,65,35,65,35,65,300
+(PU),Octillery,Suction Cups,Sniper,Moody,75,105,75,105,75,45,480
+(PU),Delibird,Vital Spirit,Hustle,Insomnia,45,55,45,65,45,75,330
+NU,Mantine,Swift Swim,Water Absorb,Water Veil,85,40,70,80,140,70,485
+UU,Skarmory,Keen Eye,Sturdy,Weak Armor,65,80,140,40,70,70,465
+Illegal,Houndour,Early Bird,Flash Fire,Unnerve,45,60,30,80,50,65,330
+Illegal,Houndoom,Early Bird,Flash Fire,Unnerve,75,90,50,110,80,95,500
+Illegal,Houndoom-Mega,Solar Power,,,75,90,90,140,90,115,600
+PUBL,Kingdra,Swift Swim,Sniper,Damp,75,95,95,95,95,85,540
+Illegal,Phanpy,Pickup,Sand Veil,,90,60,60,40,40,40,330
+Illegal,Donphan,Sturdy,Sand Veil,,90,120,120,60,60,50,500
+RU,Porygon2,Trace,Download,Analytic,85,80,90,105,95,60,515
+Illegal,Stantler,Intimidate,Frisk,Sap Sipper,73,95,62,85,65,85,465
+Illegal,Smeargle,Own Tempo,Technician,Moody,55,20,35,20,45,75,250
+LC,Tyrogue,Guts,Steadfast,Vital Spirit,35,35,35,35,35,35,210
+NU,Hitmontop,Intimidate,Technician,Steadfast,50,95,95,35,110,70,455
+LC,Smoochum,Oblivious,Forewarn,Hydration,45,30,15,85,65,65,305
+LC,Elekid,Static,Vital Spirit,,45,63,37,65,55,95,360
+LC,Magby,Flame Body,Vital Spirit,,45,75,37,70,55,83,365
+(PU),Miltank,Thick Fat,Scrappy,Sap Sipper,95,80,105,40,70,100,490
+OU,Blissey,Natural Cure,Serene Grace,Healer,255,10,10,75,135,55,540
+RU,Raikou,Pressure,Inner Focus,,90,85,75,115,100,115,580
+NUBL,Entei,Pressure,Inner Focus,,115,115,85,90,75,100,580
+RU,Suicune,Pressure,Inner Focus,,100,75,115,90,115,85,580
+LC,Larvitar,Guts,Sand Veil,,50,64,50,45,50,41,300
+NFE,Pupitar,Shed Skin,,,70,84,70,65,70,51,410
+OU,Tyranitar,Sand Stream,Unnerve,,100,134,110,95,100,61,600
+Illegal,Tyranitar-Mega,Sand Stream,,,100,164,150,95,120,71,700
+Uber,Lugia,Pressure,Multiscale,,106,90,130,90,154,110,680
+Uber,Ho-Oh,Pressure,Regenerator,,106,130,90,110,154,90,680
+RU,Celebi,Natural Cure,,,100,100,100,100,100,100,600
+LC,Treecko,Overgrow,Unburden,,40,45,35,65,55,70,310
+NFE,Grovyle,Overgrow,Unburden,,50,65,45,85,65,95,405
+PUBL,Sceptile,Overgrow,Unburden,,70,85,65,105,85,120,530
+Illegal,Sceptile-Mega,Lightning Rod,,,70,110,75,145,85,145,630
+LC,Torchic,Blaze,Speed Boost,,45,60,40,70,50,45,310
+NFE,Combusken,Blaze,Speed Boost,,60,85,60,85,60,55,405
+UUBL,Blaziken,Blaze,Speed Boost,,80,120,70,110,70,80,530
+Illegal,Blaziken-Mega,Speed Boost,,,80,160,80,130,80,100,630
+LC,Mudkip,Torrent,Damp,,50,70,50,50,50,40,310
+NFE,Marshtomp,Torrent,Damp,,70,85,70,60,70,50,405
+UU,Swampert,Torrent,Damp,,100,110,90,85,90,60,535
+Illegal,Swampert-Mega,Swift Swim,,,100,150,110,95,110,70,635
+Illegal,Poochyena,Run Away,Quick Feet,Rattled,35,55,35,30,30,35,220
+Illegal,Mightyena,Intimidate,Quick Feet,Moxie,70,90,70,60,60,70,420
+NFE,Zigzagoon,Pickup,Gluttony,Quick Feet,38,30,41,30,41,60,240
+LC,Zigzagoon-Galar,Pickup,Gluttony,Quick Feet,38,30,41,30,41,60,240
+NUBL,Linoone,Pickup,Gluttony,Quick Feet,78,70,61,50,61,100,420
+NFE,Linoone-Galar,Pickup,Gluttony,Quick Feet,78,70,61,50,61,100,420
+Illegal,Wurmple,Shield Dust,Run Away,,45,45,35,20,30,20,195
+Illegal,Silcoon,Shed Skin,,,50,35,55,25,25,15,205
+Illegal,Beautifly,Swarm,Rivalry,,60,70,50,100,50,65,395
+Illegal,Cascoon,Shed Skin,,,50,35,55,25,25,15,205
+Illegal,Dustox,Shield Dust,Compound Eyes,,60,50,70,50,90,65,385
+LC,Lotad,Swift Swim,Rain Dish,Own Tempo,40,30,30,40,50,30,220
+NFE,Lombre,Swift Swim,Rain Dish,Own Tempo,60,50,50,60,70,50,340
+(PU),Ludicolo,Swift Swim,Rain Dish,Own Tempo,80,70,70,90,100,70,480
+LC,Seedot,Chlorophyll,Early Bird,Pickpocket,40,40,50,30,30,30,220
+NFE,Nuzleaf,Chlorophyll,Early Bird,Pickpocket,70,70,40,60,40,60,340
+(PU),Shiftry,Chlorophyll,Early Bird,Pickpocket,90,100,60,90,60,80,480
+Illegal,Taillow,Guts,Scrappy,,40,55,30,30,30,85,270
+Illegal,Swellow,Guts,Scrappy,,60,85,60,75,50,125,455
+LC,Wingull,Keen Eye,Hydration,Rain Dish,40,30,30,55,30,85,270
+OU,Pelipper,Keen Eye,Drizzle,Rain Dish,60,50,100,95,70,65,440
+LC,Ralts,Synchronize,Trace,Telepathy,28,25,25,45,35,40,198
+NFE,Kirlia,Synchronize,Trace,Telepathy,38,35,35,65,55,50,278
+RU,Gardevoir,Synchronize,Trace,Telepathy,68,65,65,125,115,80,518
+Illegal,Gardevoir-Mega,Pixilate,,,68,85,65,165,135,100,618
+Illegal,Surskit,Swift Swim,Rain Dish,,40,30,32,50,52,65,269
+Illegal,Masquerain,Intimidate,Unnerve,,70,60,62,100,82,80,454
+Illegal,Shroomish,Effect Spore,Poison Heal,Quick Feet,60,40,60,40,60,35,295
+Illegal,Breloom,Effect Spore,Poison Heal,Technician,60,130,80,60,60,70,460
+Illegal,Slakoth,Truant,,,60,60,60,35,35,30,280
+Illegal,Vigoroth,Vital Spirit,,,80,80,80,55,55,90,440
+Illegal,Slaking,Truant,,,150,160,100,95,65,100,670
+LC,Nincada,Compound Eyes,Run Away,,31,45,90,30,30,40,266
+PU,Ninjask,Speed Boost,Infiltrator,,61,90,45,50,50,160,456
+(PU),Shedinja,Wonder Guard,,,1,90,45,30,30,40,236
+LC,Whismur,Soundproof,Rattled,,64,51,23,51,23,28,240
+NFE,Loudred,Soundproof,Scrappy,,84,71,43,71,43,48,360
+NU,Exploud,Soundproof,Scrappy,,104,91,63,91,73,68,490
+Illegal,Makuhita,Thick Fat,Guts,Sheer Force,72,60,30,20,30,25,237
+Illegal,Hariyama,Thick Fat,Guts,Sheer Force,144,120,60,40,60,50,474
+LC,Azurill,Thick Fat,Huge Power,Sap Sipper,50,20,40,20,40,20,190
+Illegal,Nosepass,Sturdy,Magnet Pull,Sand Force,30,45,135,45,90,30,375
+Illegal,Skitty,Cute Charm,Normalize,Wonder Skin,50,45,45,35,35,50,260
+Illegal,Delcatty,Cute Charm,Normalize,Wonder Skin,70,65,65,55,55,90,400
+(PU),Sableye,Keen Eye,Stall,Prankster,50,75,75,65,65,50,380
+Illegal,Sableye-Mega,Magic Bounce,,,50,85,125,85,115,20,480
+(PU),Mawile,Hyper Cutter,Intimidate,Sheer Force,50,85,85,55,55,50,380
+Illegal,Mawile-Mega,Huge Power,,,50,105,125,55,95,50,480
+LC,Aron,Sturdy,Rock Head,Heavy Metal,50,70,100,40,40,30,330
+NFE,Lairon,Sturdy,Rock Head,Heavy Metal,60,90,140,50,50,40,430
+PU,Aggron,Sturdy,Rock Head,Heavy Metal,70,110,180,60,60,50,530
+Illegal,Aggron-Mega,Filter,,,70,140,230,60,80,50,630
+Illegal,Meditite,Pure Power,Telepathy,,30,40,55,40,55,60,280
+Illegal,Medicham,Pure Power,Telepathy,,60,60,75,60,75,80,410
+Illegal,Medicham-Mega,Pure Power,,,60,100,85,80,85,100,510
+LC,Electrike,Static,Lightning Rod,Minus,40,45,40,65,40,65,295
+(PU),Manectric,Static,Lightning Rod,Minus,70,75,60,105,60,105,475
+Illegal,Manectric-Mega,Intimidate,,,70,75,80,135,80,135,575
+Illegal,Plusle,Plus,Lightning Rod,,60,50,40,85,75,95,405
+Illegal,Minun,Minus,Volt Absorb,,60,40,50,75,85,95,405
+Illegal,Volbeat,Illuminate,Swarm,Prankster,65,73,75,47,85,85,430
+Illegal,Illumise,Oblivious,Tinted Lens,Prankster,65,47,75,73,85,85,430
+NFE,Roselia,Natural Cure,Poison Point,Leaf Guard,50,60,45,100,80,65,400
+Illegal,Gulpin,Liquid Ooze,Sticky Hold,Gluttony,70,43,53,43,53,40,302
+Illegal,Swalot,Liquid Ooze,Sticky Hold,Gluttony,100,73,83,73,83,55,467
+LC,Carvanha,Rough Skin,Speed Boost,,45,90,20,65,20,65,305
+RU,Sharpedo,Rough Skin,Speed Boost,,70,120,40,95,40,95,460
+Illegal,Sharpedo-Mega,Strong Jaw,,,70,140,70,110,65,105,560
+LC,Wailmer,Water Veil,Oblivious,Pressure,130,70,35,70,35,60,400
+(PU),Wailord,Water Veil,Oblivious,Pressure,170,90,45,90,45,60,500
+Illegal,Numel,Oblivious,Simple,Own Tempo,60,60,40,65,45,35,305
+Illegal,Camerupt,Magma Armor,Solid Rock,Anger Point,70,100,70,105,75,40,460
+Illegal,Camerupt-Mega,Sheer Force,,,70,120,100,145,105,20,560
+UU,Torkoal,White Smoke,Drought,Shell Armor,70,85,140,85,70,20,470
+Illegal,Spoink,Thick Fat,Own Tempo,Gluttony,60,25,35,70,80,60,330
+Illegal,Grumpig,Thick Fat,Own Tempo,Gluttony,80,45,65,90,110,80,470
+Illegal,Spinda,Own Tempo,Tangled Feet,Contrary,60,60,60,60,60,60,360
+LC,Trapinch,Hyper Cutter,Arena Trap,Sheer Force,45,100,45,45,45,10,290
+NFE,Vibrava,Levitate,,,50,70,50,50,50,70,340
+RU,Flygon,Levitate,,,80,100,80,80,80,100,520
+Illegal,Cacnea,Sand Veil,Water Absorb,,50,85,40,85,40,35,335
+Illegal,Cacturne,Sand Veil,Water Absorb,,70,115,60,115,60,55,475
+LC,Swablu,Natural Cure,Cloud Nine,,45,40,60,40,75,50,310
+(PU),Altaria,Natural Cure,Cloud Nine,,75,70,90,70,105,80,490
+Illegal,Altaria-Mega,Pixilate,,,75,110,110,110,105,80,590
+Illegal,Zangoose,Immunity,Toxic Boost,,73,115,60,60,60,90,458
+Illegal,Seviper,Shed Skin,Infiltrator,,73,100,60,100,60,65,458
+(PU),Lunatone,Levitate,,,90,55,65,95,85,70,460
+(PU),Solrock,Levitate,,,90,95,85,55,65,70,460
+LC,Barboach,Oblivious,Anticipation,Hydration,50,48,43,46,41,60,288
+(PU),Whiscash,Oblivious,Anticipation,Hydration,110,78,73,76,71,60,468
+LC,Corphish,Hyper Cutter,Shell Armor,Adaptability,43,80,65,50,35,35,308
+UU,Crawdaunt,Hyper Cutter,Shell Armor,Adaptability,63,120,85,90,55,55,468
+LC,Baltoy,Levitate,,,40,40,55,40,70,55,300
+PU,Claydol,Levitate,,,60,70,105,70,120,75,500
+LC,Lileep,Suction Cups,Storm Drain,,66,41,77,61,87,23,355
+(PU),Cradily,Suction Cups,Storm Drain,,86,81,97,81,107,43,495
+LC,Anorith,Battle Armor,Swift Swim,,45,95,50,40,50,75,355
+(PU),Armaldo,Battle Armor,Swift Swim,,75,125,100,70,80,45,495
+LC,Feebas,Swift Swim,Oblivious,Adaptability,20,15,20,10,55,80,200
+RU,Milotic,Marvel Scale,Competitive,Cute Charm,95,60,79,100,125,81,540
+Illegal,Castform,Forecast,,,70,70,70,70,70,70,420
+Illegal,Castform-Sunny,Forecast,,,70,70,70,70,70,70,420
+Illegal,Castform-Rainy,Forecast,,,70,70,70,70,70,70,420
+Illegal,Castform-Snowy,Forecast,,,70,70,70,70,70,70,420
+Illegal,Kecleon,Color Change,Protean,,60,90,70,60,120,40,440
+Illegal,Shuppet,Insomnia,Frisk,Cursed Body,44,75,35,63,33,45,295
+Illegal,Banette,Insomnia,Frisk,Cursed Body,64,115,65,83,63,65,455
+Illegal,Banette-Mega,Prankster,,,64,165,75,93,83,75,555
+LC,Duskull,Levitate,Frisk,,20,40,90,30,90,25,295
+NFE,Dusclops,Pressure,Frisk,,40,70,130,60,130,25,455
+Illegal,Tropius,Chlorophyll,Solar Power,Harvest,99,68,83,72,87,51,460
+Illegal,Chimecho,Levitate,,,75,50,80,95,90,65,455
+PU,Absol,Pressure,Super Luck,Justified,65,130,60,75,60,75,465
+Illegal,Absol-Mega,Magic Bounce,,,65,150,60,115,60,115,565
+LC,Wynaut,Shadow Tag,Telepathy,,95,23,48,23,48,23,260
+LC,Snorunt,Inner Focus,Ice Body,Moody,50,50,50,50,50,50,300
+(PU),Glalie,Inner Focus,Ice Body,Moody,80,80,80,80,80,80,480
+Illegal,Glalie-Mega,Refrigerate,,,80,120,80,120,80,100,580
+LC,Spheal,Thick Fat,Ice Body,Oblivious,70,40,50,55,50,25,290
+NFE,Sealeo,Thick Fat,Ice Body,Oblivious,90,60,70,75,70,45,410
+(PU),Walrein,Thick Fat,Ice Body,Oblivious,110,80,90,95,90,65,530
+Illegal,Clamperl,Shell Armor,Rattled,,35,64,85,74,55,32,345
+Illegal,Huntail,Swift Swim,Water Veil,,55,104,105,94,75,52,485
+Illegal,Gorebyss,Swift Swim,Hydration,,55,84,105,114,75,52,485
+(PU),Relicanth,Swift Swim,Rock Head,Sturdy,100,90,130,45,65,55,485
+Illegal,Luvdisc,Swift Swim,Hydration,,43,30,55,40,65,97,330
+LC,Bagon,Rock Head,Sheer Force,,45,75,60,40,30,50,300
+NFE,Shelgon,Rock Head,Overcoat,,65,95,100,60,50,50,420
+UU,Salamence,Intimidate,Moxie,,95,135,80,110,80,100,600
+Illegal,Salamence-Mega,Aerilate,,,95,145,130,120,90,120,700
+LC,Beldum,Clear Body,Light Metal,,40,55,80,35,60,30,300
+NFE,Metang,Clear Body,Light Metal,,60,75,100,55,80,50,420
+RU,Metagross,Clear Body,Light Metal,,80,135,130,95,90,70,600
+Illegal,Metagross-Mega,Tough Claws,,,80,145,150,105,110,110,700
+PU,Regirock,Clear Body,Sturdy,,80,100,200,50,100,50,580
+(PU),Regice,Clear Body,Ice Body,,80,50,100,100,200,50,580
+RU,Registeel,Clear Body,Light Metal,,80,75,150,75,150,50,580
+UUBL,Latias,Levitate,,,80,80,90,110,130,110,600
+Illegal,Latias-Mega,Levitate,,,80,100,120,140,150,110,700
+UUBL,Latios,Levitate,,,80,90,80,130,110,110,600
+Illegal,Latios-Mega,Levitate,,,80,130,100,160,120,110,700
+Uber,Kyogre,Drizzle,,,100,100,90,150,140,90,670
+Illegal,Kyogre-Primal,Primordial Sea,,,100,150,90,180,160,90,770
+Uber,Groudon,Drought,,,100,150,140,100,90,90,670
+Illegal,Groudon-Primal,Desolate Land,,,100,180,160,150,90,90,770
+Uber,Rayquaza,Air Lock,,,105,150,90,150,90,95,680
+Illegal,Rayquaza-Mega,Delta Stream,,,105,180,100,180,100,115,780
+UU,Jirachi,Serene Grace,,,100,100,100,100,100,100,600
+Illegal,Deoxys,Pressure,,,50,150,50,150,50,150,600
+Illegal,Deoxys-Attack,Pressure,,,50,180,20,180,20,150,600
+Illegal,Deoxys-Defense,Pressure,,,50,70,160,70,160,90,600
+Illegal,Deoxys-Speed,Pressure,,,50,95,90,95,90,180,600
+Illegal,Turtwig,Overgrow,Shell Armor,,55,68,64,45,55,31,318
+Illegal,Grotle,Overgrow,Shell Armor,,75,89,85,55,65,36,405
+Illegal,Torterra,Overgrow,Shell Armor,,95,109,105,75,85,56,525
+Illegal,Chimchar,Blaze,Iron Fist,,44,58,44,58,44,61,309
+Illegal,Monferno,Blaze,Iron Fist,,64,78,52,78,52,81,405
+Illegal,Infernape,Blaze,Iron Fist,,76,104,71,104,71,108,534
+Illegal,Piplup,Torrent,Defiant,,53,51,53,61,56,40,314
+Illegal,Prinplup,Torrent,Defiant,,64,66,68,81,76,50,405
+Illegal,Empoleon,Torrent,Defiant,,84,86,88,111,101,60,530
+Illegal,Starly,Keen Eye,Reckless,,40,55,30,30,30,60,245
+Illegal,Staravia,Intimidate,Reckless,,55,75,50,40,40,80,340
+Illegal,Staraptor,Intimidate,Reckless,,85,120,70,50,60,100,485
+Illegal,Bidoof,Simple,Unaware,Moody,59,45,40,35,40,31,250
+Illegal,Bibarel,Simple,Unaware,Moody,79,85,60,55,60,71,410
+Illegal,Kricketot,Shed Skin,Run Away,,37,25,41,25,41,25,194
+Illegal,Kricketune,Swarm,Technician,,77,85,51,55,51,65,384
+LC,Shinx,Rivalry,Intimidate,Guts,45,65,34,40,34,45,263
+NFE,Luxio,Rivalry,Intimidate,Guts,60,85,49,60,49,60,363
+(PU),Luxray,Rivalry,Intimidate,Guts,80,120,79,95,79,70,523
+LC,Budew,Natural Cure,Poison Point,Leaf Guard,40,30,35,50,70,55,280
+RU,Roserade,Natural Cure,Poison Point,Technician,60,70,65,125,105,90,515
+Illegal,Cranidos,Mold Breaker,Sheer Force,,67,125,40,30,30,58,350
+Illegal,Rampardos,Mold Breaker,Sheer Force,,97,165,60,65,50,58,495
+Illegal,Shieldon,Sturdy,Soundproof,,30,42,118,42,88,30,350
+Illegal,Bastiodon,Sturdy,Soundproof,,60,52,168,47,138,30,495
+Illegal,Burmy,Shed Skin,Overcoat,,40,29,45,29,45,36,224
+Illegal,Wormadam,Anticipation,Overcoat,,60,59,85,79,105,36,424
+Illegal,Wormadam-Sandy,Anticipation,Overcoat,,60,79,105,59,85,36,424
+Illegal,Wormadam-Trash,Anticipation,Overcoat,,60,69,95,69,95,36,424
+Illegal,Mothim,Swarm,Tinted Lens,,70,94,50,94,50,66,424
+LC,Combee,Honey Gather,Hustle,,30,30,42,30,42,70,244
+(PU),Vespiquen,Pressure,Unnerve,,70,80,102,80,102,40,474
+Illegal,Pachirisu,Run Away,Pickup,Volt Absorb,60,45,70,45,90,95,405
+Illegal,Buizel,Swift Swim,Water Veil,,55,65,35,60,30,85,330
+Illegal,Floatzel,Swift Swim,Water Veil,,85,105,55,85,50,115,495
+NFE,Cherubi,Chlorophyll,,,45,35,45,62,53,35,275
+(PU),Cherrim,Flower Gift,,,70,60,70,87,78,85,450
+(PU),Cherrim-Sunshine,Flower Gift,,,70,60,70,87,78,85,450
+LC,Shellos,Sticky Hold,Storm Drain,Sand Force,76,48,48,57,62,34,325
+RU,Gastrodon,Sticky Hold,Storm Drain,Sand Force,111,83,68,92,82,39,475
+Illegal,Ambipom,Technician,Pickup,Skill Link,75,100,66,60,66,115,482
+NFE,Drifloon,Aftermath,Unburden,Flare Boost,90,50,34,60,44,70,348
+(PU),Drifblim,Aftermath,Unburden,Flare Boost,150,80,44,90,54,80,498
+LC,Buneary,Run Away,Klutz,Limber,55,66,44,44,56,85,350
+(PU),Lopunny,Cute Charm,Klutz,Limber,65,76,84,54,96,105,480
+Illegal,Lopunny-Mega,Scrappy,,,65,136,94,54,96,135,580
+Illegal,Mismagius,Levitate,,,60,60,60,105,105,105,495
+Illegal,Honchkrow,Insomnia,Super Luck,Moxie,100,125,52,105,52,71,505
+Illegal,Glameow,Limber,Own Tempo,Keen Eye,49,55,42,42,37,85,310
+Illegal,Purugly,Thick Fat,Own Tempo,Defiant,71,82,64,64,59,112,452
+Illegal,Chingling,Levitate,,,45,30,50,65,50,45,285
+LC,Stunky,Stench,Aftermath,Keen Eye,63,63,47,41,41,74,329
+(PU),Skuntank,Stench,Aftermath,Keen Eye,103,93,67,71,61,84,479
+LC,Bronzor,Levitate,Heatproof,Heavy Metal,57,24,86,24,86,23,300
+RU,Bronzong,Levitate,Heatproof,Heavy Metal,67,89,116,79,116,33,500
+LC,Bonsly,Sturdy,Rock Head,Rattled,50,80,95,10,45,10,290
+LC,Mime Jr.,Soundproof,Filter,Technician,20,25,45,70,90,60,310
+LC,Happiny,Natural Cure,Serene Grace,Friend Guard,100,5,5,15,65,30,220
+Illegal,Chatot,Keen Eye,Tangled Feet,Big Pecks,76,65,45,92,42,91,411
+(PU),Spiritomb,Pressure,Infiltrator,,50,92,108,92,108,35,485
+LC,Gible,Sand Veil,Rough Skin,,58,70,45,40,45,42,300
+NFE,Gabite,Sand Veil,Rough Skin,,68,90,65,50,55,82,410
+OU,Garchomp,Sand Veil,Rough Skin,,108,130,95,80,85,102,600
+Illegal,Garchomp-Mega,Sand Force,,,108,170,115,120,95,92,700
+LC,Munchlax,Pickup,Thick Fat,Gluttony,135,85,40,40,85,5,390
+LC,Riolu,Steadfast,Inner Focus,Prankster,40,70,40,35,40,60,285
+RU,Lucario,Steadfast,Inner Focus,Justified,70,110,70,115,70,90,525
+Illegal,Lucario-Mega,Adaptability,,,70,145,88,140,70,112,625
+LC,Hippopotas,Sand Stream,Sand Force,,68,72,78,38,42,32,330
+UU,Hippowdon,Sand Stream,Sand Force,,108,112,118,68,72,47,525
+LC,Skorupi,Battle Armor,Sniper,Keen Eye,40,50,90,30,55,65,330
+NU,Drapion,Battle Armor,Sniper,Keen Eye,70,90,110,60,75,95,500
+LC,Croagunk,Anticipation,Dry Skin,Poison Touch,48,61,40,61,40,50,300
+NU,Toxicroak,Anticipation,Dry Skin,Poison Touch,83,106,65,86,65,85,490
+Illegal,Carnivine,Levitate,,,74,100,72,90,72,46,454
+Illegal,Finneon,Swift Swim,Storm Drain,Water Veil,49,49,56,49,61,66,330
+Illegal,Lumineon,Swift Swim,Storm Drain,Water Veil,69,69,76,69,86,91,460
+LC,Mantyke,Swift Swim,Water Absorb,Water Veil,45,20,50,60,120,50,345
+LC,Snover,Snow Warning,Soundproof,,60,62,50,62,60,40,334
+(PU),Abomasnow,Snow Warning,Soundproof,,90,92,75,92,85,60,494
+Illegal,Abomasnow-Mega,Snow Warning,,,90,132,105,132,105,30,594
+OU,Weavile,Pressure,Pickpocket,,70,120,65,45,85,125,510
+OU,Magnezone,Magnet Pull,Sturdy,Analytic,70,70,115,130,90,60,535
+(PU),Lickilicky,Own Tempo,Oblivious,Cloud Nine,110,85,95,80,95,50,515
+RU,Rhyperior,Lightning Rod,Solid Rock,Reckless,115,140,130,55,55,40,535
+UU,Tangrowth,Chlorophyll,Leaf Guard,Regenerator,100,100,125,110,50,50,535
+(PU),Electivire,Motor Drive,Vital Spirit,,75,123,67,95,85,95,540
+(PU),Magmortar,Flame Body,Vital Spirit,,75,95,67,125,95,83,540
+RU,Togekiss,Hustle,Serene Grace,Super Luck,85,50,95,120,115,80,545
+Illegal,Yanmega,Speed Boost,Tinted Lens,Frisk,86,76,86,116,56,95,515
+(PU),Leafeon,Leaf Guard,Chlorophyll,,65,110,130,60,65,95,525
+(PU),Glaceon,Snow Cloak,Ice Body,,65,60,110,130,95,65,525
+Illegal,Gliscor,Hyper Cutter,Sand Veil,Poison Heal,75,95,125,45,75,95,510
+UU,Mamoswine,Oblivious,Snow Cloak,Thick Fat,110,130,80,70,60,80,530
+NUBL,Porygon-Z,Adaptability,Download,Analytic,85,80,70,135,75,90,535
+PU,Gallade,Steadfast,Justified,,68,125,65,65,115,80,518
+Illegal,Gallade-Mega,Inner Focus,,,68,165,95,65,115,110,618
+Illegal,Probopass,Sturdy,Magnet Pull,Sand Force,60,55,145,75,150,40,525
+(PU),Dusknoir,Pressure,Frisk,,45,100,135,65,135,45,525
+(PU),Froslass,Snow Cloak,Cursed Body,,70,80,70,80,70,110,480
+(PU),Rotom,Levitate,,,50,50,77,95,77,91,440
+UU,Rotom-Heat,Levitate,,,50,65,107,105,107,86,520
+UU,Rotom-Wash,Levitate,,,50,65,107,105,107,86,520
+(PU),Rotom-Frost,Levitate,,,50,65,107,105,107,86,520
+(PU),Rotom-Fan,Levitate,,,50,65,107,105,107,86,520
+NU,Rotom-Mow,Levitate,,,50,65,107,105,107,86,520
+(PU),Uxie,Levitate,,,75,75,130,75,130,95,580
+PU,Mesprit,Levitate,,,80,105,105,105,105,80,580
+UU,Azelf,Levitate,,,75,125,70,125,70,115,580
+Uber,Dialga,Pressure,Telepathy,,100,120,120,150,100,90,680
+Illegal,Dialga-Origin,Pressure,Telepathy,,100,100,120,150,120,90,680
+Uber,Palkia,Pressure,Telepathy,,90,120,100,150,120,100,680
+Illegal,Palkia-Origin,Pressure,Telepathy,,90,100,100,150,120,120,680
+OU,Heatran,Flash Fire,Flame Body,,91,90,106,130,106,77,600
+(PU),Regigigas,Slow Start,,,110,160,110,80,110,100,670
+Uber,Giratina,Pressure,Telepathy,,150,100,120,100,120,90,680
+Uber,Giratina-Origin,Levitate,,,150,120,100,120,100,90,680
+NUBL,Cresselia,Levitate,,,120,70,120,75,130,85,600
+Illegal,Phione,Hydration,,,80,80,80,80,80,80,480
+Illegal,Manaphy,Hydration,,,100,100,100,100,100,100,600
+Illegal,Darkrai,Bad Dreams,,,70,90,90,135,90,125,600
+Illegal,Shaymin,Natural Cure,,,100,100,100,100,100,100,600
+Illegal,Shaymin-Sky,Serene Grace,,,100,103,75,120,75,127,600
+Illegal,Arceus,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Bug,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Dark,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Dragon,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Electric,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Fairy,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Fighting,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Fire,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Flying,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Ghost,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Grass,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Ground,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Ice,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Poison,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Psychic,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Rock,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Steel,Multitype,,,120,120,120,120,120,120,720
+Illegal,Arceus-Water,Multitype,,,120,120,120,120,120,120,720
+OU,Victini,Victory Star,,,100,100,100,100,100,100,600
+Illegal,Snivy,Overgrow,Contrary,,45,45,55,45,55,63,308
+Illegal,Servine,Overgrow,Contrary,,60,60,75,60,75,83,413
+Illegal,Serperior,Overgrow,Contrary,,75,75,95,75,95,113,528
+Illegal,Tepig,Blaze,Thick Fat,,65,63,45,45,45,45,308
+Illegal,Pignite,Blaze,Thick Fat,,90,93,55,70,55,55,418
+Illegal,Emboar,Blaze,Reckless,,110,123,65,100,65,65,528
+Illegal,Oshawott,Torrent,Shell Armor,,55,55,45,63,45,45,308
+Illegal,Dewott,Torrent,Shell Armor,,75,75,60,83,60,60,413
+Illegal,Samurott,Torrent,Shell Armor,,95,100,85,108,70,70,528
+Illegal,Samurott-Hisui,Torrent,Shell Armor,,90,108,80,100,65,85,528
+Illegal,Patrat,Run Away,Keen Eye,Analytic,45,55,39,35,39,42,255
+Illegal,Watchog,Illuminate,Keen Eye,Analytic,60,85,69,60,69,77,420
+LC,Lillipup,Vital Spirit,Pickup,Run Away,45,60,45,25,45,55,275
+NFE,Herdier,Intimidate,Sand Rush,Scrappy,65,80,65,35,65,60,370
+(PU),Stoutland,Intimidate,Sand Rush,Scrappy,85,110,90,45,90,80,500
+LC,Purrloin,Limber,Unburden,Prankster,41,50,37,50,37,66,281
+(PU),Liepard,Limber,Unburden,Prankster,64,88,50,88,50,106,446
+Illegal,Pansage,Gluttony,Overgrow,,50,53,48,53,48,64,316
+Illegal,Simisage,Gluttony,Overgrow,,75,98,63,98,63,101,498
+Illegal,Pansear,Gluttony,Blaze,,50,53,48,53,48,64,316
+Illegal,Simisear,Gluttony,Blaze,,75,98,63,98,63,101,498
+Illegal,Panpour,Gluttony,Torrent,,50,53,48,53,48,64,316
+Illegal,Simipour,Gluttony,Torrent,,75,98,63,98,63,101,498
+LC,Munna,Forewarn,Synchronize,Telepathy,76,25,45,67,55,24,292
+(PU),Musharna,Forewarn,Synchronize,Telepathy,116,55,85,107,95,29,487
+LC,Pidove,Big Pecks,Super Luck,Rivalry,50,55,50,36,30,43,264
+NFE,Tranquill,Big Pecks,Super Luck,Rivalry,62,77,62,50,42,65,358
+(PU),Unfezant,Big Pecks,Super Luck,Rivalry,80,115,80,65,55,93,488
+Illegal,Blitzle,Lightning Rod,Motor Drive,Sap Sipper,45,60,32,50,32,76,295
+Illegal,Zebstrika,Lightning Rod,Motor Drive,Sap Sipper,75,100,63,80,63,116,497
+LC,Roggenrola,Sturdy,Weak Armor,Sand Force,55,75,85,25,25,15,280
+NFE,Boldore,Sturdy,Weak Armor,Sand Force,70,105,105,50,40,20,390
+PU,Gigalith,Sturdy,Sand Stream,Sand Force,85,135,130,60,80,25,515
+NFE,Woobat,Unaware,Klutz,Simple,65,45,43,55,43,72,323
+(PU),Swoobat,Unaware,Klutz,Simple,67,57,55,77,55,114,425
+LC,Drilbur,Sand Rush,Sand Force,Mold Breaker,60,85,40,30,45,68,328
+UU,Excadrill,Sand Rush,Sand Force,Mold Breaker,110,135,60,50,65,88,508
+PU,Audino,Healer,Regenerator,Klutz,103,60,86,60,86,50,445
+Illegal,Audino-Mega,Healer,,,103,60,126,80,126,50,545
+LC,Timburr,Guts,Sheer Force,Iron Fist,75,80,55,25,35,35,305
+NFE,Gurdurr,Guts,Sheer Force,Iron Fist,85,105,85,40,50,40,405
+UU,Conkeldurr,Guts,Sheer Force,Iron Fist,105,140,95,55,65,45,505
+LC,Tympole,Swift Swim,Hydration,Water Absorb,50,50,40,50,40,64,294
+NFE,Palpitoad,Swift Swim,Hydration,Water Absorb,75,65,55,65,55,69,384
+RU,Seismitoad,Swift Swim,Poison Touch,Water Absorb,105,95,75,85,75,74,509
+(PU),Throh,Guts,Inner Focus,Mold Breaker,120,100,85,30,85,45,465
+(PU),Sawk,Sturdy,Inner Focus,Mold Breaker,75,125,75,30,75,85,465
+Illegal,Sewaddle,Swarm,Chlorophyll,Overcoat,45,53,70,40,60,42,310
+Illegal,Swadloon,Leaf Guard,Chlorophyll,Overcoat,55,63,90,50,80,42,380
+Illegal,Leavanny,Swarm,Chlorophyll,Overcoat,75,103,80,70,80,92,500
+LC,Venipede,Poison Point,Swarm,Speed Boost,30,45,59,30,39,57,260
+NFE,Whirlipede,Poison Point,Swarm,Speed Boost,40,55,99,40,79,47,360
+RUBL,Scolipede,Poison Point,Swarm,Speed Boost,60,100,89,55,69,112,485
+LC,Cottonee,Prankster,Infiltrator,Chlorophyll,40,27,60,37,50,66,280
+PU,Whimsicott,Prankster,Infiltrator,Chlorophyll,60,67,85,77,75,116,480
+LC,Petilil,Chlorophyll,Own Tempo,Leaf Guard,45,35,50,70,50,30,280
+(PU),Lilligant,Chlorophyll,Own Tempo,Leaf Guard,70,60,75,110,75,90,480
+Illegal,Lilligant-Hisui,Chlorophyll,Hustle,Leaf Guard,70,105,75,50,75,105,480
+(PU),Basculin,Reckless,Adaptability,Mold Breaker,70,92,65,80,55,98,460
+(PU),Basculin-Blue-Striped,Rock Head,Adaptability,Mold Breaker,70,92,65,80,55,98,460
+Illegal,Basculin-White-Striped,Rattled,Adaptability,Mold Breaker,70,92,65,80,55,98,460
+LC,Sandile,Intimidate,Moxie,Anger Point,50,72,35,35,35,65,292
+NFE,Krokorok,Intimidate,Moxie,Anger Point,60,82,45,45,45,74,351
+UU,Krookodile,Intimidate,Moxie,Anger Point,95,117,80,65,70,92,519
+LC,Darumaka,Hustle,Inner Focus,,70,90,45,15,45,50,315
+LC,Darumaka-Galar,Hustle,Inner Focus,,70,90,45,15,45,50,315
+UU,Darmanitan,Sheer Force,Zen Mode,,105,140,55,30,55,95,480
+UU,Darmanitan-Zen,Zen Mode,,,105,30,105,140,105,55,540
+Uber,Darmanitan-Galar,Gorilla Tactics,Zen Mode,,105,140,55,30,55,95,480
+Uber,Darmanitan-Galar-Zen,Zen Mode,,,105,160,55,30,55,135,540
+(PU),Maractus,Water Absorb,Chlorophyll,Storm Drain,75,86,67,106,67,60,461
+LC,Dwebble,Sturdy,Shell Armor,Weak Armor,50,65,85,35,35,55,325
+(PU),Crustle,Sturdy,Shell Armor,Weak Armor,70,105,125,65,75,45,485
+NFE,Scraggy,Shed Skin,Moxie,Intimidate,50,75,70,35,70,48,348
+PU,Scrafty,Shed Skin,Moxie,Intimidate,65,90,115,45,115,58,488
+NUBL,Sigilyph,Wonder Skin,Magic Guard,Tinted Lens,72,58,80,103,80,97,490
+LC,Yamask,Mummy,,,38,30,85,55,65,30,303
+LC,Yamask-Galar,Wandering Spirit,,,38,55,85,30,65,30,303
+PU,Cofagrigus,Mummy,,,58,50,145,95,105,30,483
+LC,Tirtouga,Solid Rock,Sturdy,Swift Swim,54,78,103,53,45,22,355
+(PU),Carracosta,Solid Rock,Sturdy,Swift Swim,74,108,133,83,65,32,495
+LC,Archen,Defeatist,,,55,112,45,74,45,70,401
+PU,Archeops,Defeatist,,,75,140,65,112,65,110,567
+LC,Trubbish,Stench,Sticky Hold,Aftermath,50,50,62,40,62,65,329
+PU,Garbodor,Stench,Weak Armor,Aftermath,80,95,82,60,82,75,474
+AG,Garbodor-Gmax,Stench,Weak Armor,Aftermath,80,95,82,60,82,75,474
+LC,Zorua,Illusion,,,40,65,40,80,40,65,330
+Illegal,Zorua-Hisui,Illusion,,,35,60,40,85,40,70,330
+NU,Zoroark,Illusion,,,60,105,60,120,60,105,510
+Illegal,Zoroark-Hisui,Illusion,,,55,100,60,125,60,110,510
+LC,Minccino,Cute Charm,Technician,Skill Link,55,50,40,40,40,75,300
+PU,Cinccino,Cute Charm,Technician,Skill Link,75,95,60,65,60,115,470
+NFE,Gothita,Frisk,Competitive,Shadow Tag,45,30,50,55,65,45,290
+NFE,Gothorita,Frisk,Competitive,Shadow Tag,60,45,70,75,85,55,390
+(PU),Gothitelle,Frisk,Competitive,Shadow Tag,70,55,95,95,110,65,490
+LC,Solosis,Overcoat,Magic Guard,Regenerator,45,30,40,105,50,20,290
+NFE,Duosion,Overcoat,Magic Guard,Regenerator,65,40,50,125,60,30,370
+RU,Reuniclus,Overcoat,Magic Guard,Regenerator,110,65,75,125,85,30,490
+Illegal,Ducklett,Keen Eye,Big Pecks,Hydration,62,44,50,44,50,55,305
+Illegal,Swanna,Keen Eye,Big Pecks,Hydration,75,87,63,87,63,98,473
+LC,Vanillite,Ice Body,Snow Cloak,Weak Armor,36,50,50,65,60,44,305
+NFE,Vanillish,Ice Body,Snow Cloak,Weak Armor,51,65,65,80,75,59,395
+(PU),Vanilluxe,Ice Body,Snow Warning,Weak Armor,71,95,85,110,95,79,535
+Illegal,Deerling,Chlorophyll,Sap Sipper,Serene Grace,60,60,50,40,50,75,335
+Illegal,Sawsbuck,Chlorophyll,Sap Sipper,Serene Grace,80,100,70,60,70,95,475
+(PU),Emolga,Static,Motor Drive,,55,75,60,75,60,103,428
+LC,Karrablast,Swarm,Shed Skin,No Guard,50,75,45,40,45,60,315
+NU,Escavalier,Swarm,Shell Armor,Overcoat,70,135,105,60,105,20,495
+LC,Foongus,Effect Spore,Regenerator,,69,55,45,55,55,15,294
+UU,Amoonguss,Effect Spore,Regenerator,,114,85,70,85,80,30,464
+LC,Frillish,Water Absorb,Cursed Body,Damp,55,40,50,65,85,40,335
+PU,Jellicent,Water Absorb,Cursed Body,Damp,100,60,70,85,105,60,480
+Illegal,Alomomola,Healer,Hydration,Regenerator,165,75,80,40,45,65,470
+LC,Joltik,Compound Eyes,Unnerve,Swarm,50,47,50,57,50,65,319
+PU,Galvantula,Compound Eyes,Unnerve,Swarm,70,77,60,97,60,108,472
+PU,Ferroseed,Iron Barbs,,,44,50,91,24,86,10,305
+OU,Ferrothorn,Iron Barbs,Anticipation,,74,94,131,54,116,20,489
+LC,Klink,Plus,Minus,Clear Body,40,55,70,45,60,30,300
+NFE,Klang,Plus,Minus,Clear Body,60,80,95,70,85,50,440
+(PU),Klinklang,Plus,Minus,Clear Body,60,100,115,70,85,90,520
+Illegal,Tynamo,Levitate,,,35,55,40,45,40,60,275
+Illegal,Eelektrik,Levitate,,,65,85,70,75,70,40,405
+Illegal,Eelektross,Levitate,,,85,115,80,105,80,50,515
+LC,Elgyem,Telepathy,Synchronize,Analytic,55,55,55,85,55,30,335
+(PU),Beheeyem,Telepathy,Synchronize,Analytic,75,75,75,125,95,40,485
+LC,Litwick,Flash Fire,Flame Body,Infiltrator,50,30,55,65,55,20,275
+NFE,Lampent,Flash Fire,Flame Body,Infiltrator,60,40,60,95,60,55,370
+RU,Chandelure,Flash Fire,Flame Body,Infiltrator,60,55,90,145,90,80,520
+LC,Axew,Rivalry,Mold Breaker,Unnerve,46,87,60,30,40,57,320
+NFE,Fraxure,Rivalry,Mold Breaker,Unnerve,66,117,70,40,50,67,410
+RUBL,Haxorus,Rivalry,Mold Breaker,Unnerve,76,147,90,60,70,97,540
+LC,Cubchoo,Snow Cloak,Slush Rush,Rattled,55,70,40,60,40,40,305
+(PU),Beartic,Snow Cloak,Slush Rush,Swift Swim,95,130,80,70,80,50,505
+(PU),Cryogonal,Levitate,,,80,50,50,95,135,105,515
+LC,Shelmet,Hydration,Shell Armor,Overcoat,50,40,85,40,65,25,305
+(PU),Accelgor,Hydration,Sticky Hold,Unburden,80,70,40,100,60,145,495
+(PU),Stunfisk,Static,Limber,Sand Veil,109,66,84,81,99,32,471
+(PU),Stunfisk-Galar,Mimicry,,,109,81,99,66,84,32,471
+LC,Mienfoo,Inner Focus,Regenerator,Reckless,45,85,50,55,50,65,350
+UUBL,Mienshao,Inner Focus,Regenerator,Reckless,65,125,60,95,60,105,510
+PU,Druddigon,Rough Skin,Sheer Force,Mold Breaker,77,120,90,60,90,48,485
+LC,Golett,Iron Fist,Klutz,No Guard,59,74,50,35,50,35,303
+NU,Golurk,Iron Fist,Klutz,No Guard,89,124,80,55,80,55,483
+LC,Pawniard,Defiant,Inner Focus,Pressure,45,85,70,40,40,60,340
+OU,Bisharp,Defiant,Inner Focus,Pressure,65,125,100,60,70,70,490
+(PU),Bouffalant,Reckless,Sap Sipper,Soundproof,95,110,95,40,95,55,490
+NFE,Rufflet,Keen Eye,Sheer Force,Hustle,70,83,50,37,50,60,350
+NU,Braviary,Keen Eye,Sheer Force,Defiant,100,123,75,57,75,80,510
+Illegal,Braviary-Hisui,Keen Eye,Sheer Force,Defiant,110,83,70,112,70,65,510
+NFE,Vullaby,Big Pecks,Overcoat,Weak Armor,70,55,75,45,65,60,370
+UU,Mandibuzz,Big Pecks,Overcoat,Weak Armor,110,65,105,55,95,80,510
+(PU),Heatmor,Gluttony,Flash Fire,White Smoke,85,97,66,105,66,65,484
+RUBL,Durant,Swarm,Hustle,Truant,58,109,112,48,48,109,484
+LC,Deino,Hustle,,,52,65,50,45,50,38,300
+NFE,Zweilous,Hustle,,,72,85,70,65,70,58,420
+UU,Hydreigon,Levitate,,,92,105,90,125,90,98,600
+LC,Larvesta,Flame Body,Swarm,,55,85,55,50,55,60,360
+OU,Volcarona,Flame Body,Swarm,,85,60,65,135,105,100,550
+UU,Cobalion,Justified,,,91,90,129,90,72,108,580
+UUBL,Terrakion,Justified,,,91,129,90,72,90,108,580
+PUBL,Virizion,Justified,,,91,90,72,90,129,108,580
+NUBL,Tornadus,Prankster,Defiant,,79,115,70,125,80,111,580
+OU,Tornadus-Therian,Regenerator,,,79,100,80,110,90,121,580
+UUBL,Thundurus,Prankster,Defiant,,79,115,70,125,80,111,580
+UU,Thundurus-Therian,Volt Absorb,,,79,105,70,145,80,101,580
+Uber,Reshiram,Turboblaze,,,100,120,100,150,120,90,680
+Uber,Zekrom,Teravolt,,,100,150,120,120,100,90,680
+Uber,Landorus,Sand Force,Sheer Force,,89,125,90,115,80,101,600
+OU,Landorus-Therian,Intimidate,,,89,145,90,105,80,91,600
+Uber,Kyurem,Pressure,,,125,130,90,130,90,95,660
+Uber,Kyurem-Black,Teravolt,,,125,170,100,120,90,95,700
+Uber,Kyurem-White,Turboblaze,,,125,120,90,170,100,95,700
+UU,Keldeo,Justified,,,91,72,90,129,90,108,580
+UU,Keldeo-Resolute,Justified,,,91,72,90,129,90,108,580
+Illegal,Meloetta,Serene Grace,,,100,77,77,128,128,90,600
+Illegal,Meloetta-Pirouette,Serene Grace,,,100,128,90,77,77,128,600
+Uber,Genesect,Download,,,71,120,95,120,95,99,600
+Uber,Genesect-Douse,Download,,,71,120,95,120,95,99,600
+Uber,Genesect-Shock,Download,,,71,120,95,120,95,99,600
+Uber,Genesect-Burn,Download,,,71,120,95,120,95,99,600
+Uber,Genesect-Chill,Download,,,71,120,95,120,95,99,600
+Illegal,Chespin,Overgrow,Bulletproof,,56,61,65,48,45,38,313
+Illegal,Quilladin,Overgrow,Bulletproof,,61,78,95,56,58,57,405
+Illegal,Chesnaught,Overgrow,Bulletproof,,88,107,122,74,75,64,530
+Illegal,Fennekin,Blaze,Magician,,40,45,40,62,60,60,307
+Illegal,Braixen,Blaze,Magician,,59,59,58,90,70,73,409
+Illegal,Delphox,Blaze,Magician,,75,69,72,114,100,104,534
+Illegal,Froakie,Torrent,Protean,,41,56,40,62,44,71,314
+Illegal,Frogadier,Torrent,Protean,,54,63,52,83,56,97,405
+Illegal,Greninja,Torrent,Protean(Battle Bond),,72,95,67,103,71,122,530
+Illegal,Greninja-Ash,Battle Bond,,,72,145,67,153,71,132,640
+LC,Bunnelby,Pickup,Cheek Pouch,Huge Power,38,36,38,32,36,57,237
+RUBL,Diggersby,Pickup,Cheek Pouch,Huge Power,85,56,77,50,77,78,423
+LC,Fletchling,Big Pecks,Gale Wings,,45,50,43,40,38,62,278
+NFE,Fletchinder,Flame Body,Gale Wings,,62,73,55,56,52,84,382
+NU,Talonflame,Flame Body,Gale Wings,,78,81,71,74,69,126,499
+Illegal,Scatterbug,Shield Dust,Compound Eyes,Friend Guard,38,35,40,27,25,35,200
+Illegal,Spewpa,Shed Skin,Friend Guard,,45,22,60,27,30,29,213
+Illegal,Vivillon,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,411
+Illegal,Vivillon-Fancy,Shield Dust,Compound Eyes,,80,52,50,90,50,89,411
+Illegal,Vivillon-Pokeball,Shield Dust,Compound Eyes,,80,52,50,90,50,89,411
+Illegal,Litleo,Rivalry,Unnerve,Moxie,62,50,58,73,54,72,369
+Illegal,Pyroar,Rivalry,Unnerve,Moxie,86,68,72,109,66,106,507
+Illegal,Flabébé,Flower Veil,Symbiosis,,44,38,39,61,79,42,303
+Illegal,Floette,Flower Veil,Symbiosis,,54,45,47,75,98,52,371
+Illegal,Floette-Eternal,Flower Veil,,,74,65,67,125,128,92,551
+Illegal,Florges,Flower Veil,Symbiosis,,78,65,68,112,154,75,552
+Illegal,Skiddo,Sap Sipper,Grass Pelt,,66,65,48,62,57,52,350
+Illegal,Gogoat,Sap Sipper,Grass Pelt,,123,100,62,97,81,68,531
+LC,Pancham,Iron Fist,Mold Breaker,Scrappy,67,82,62,46,48,43,348
+NUBL,Pangoro,Iron Fist,Mold Breaker,Scrappy,95,124,78,69,71,58,495
+Illegal,Furfrou,Fur Coat,,,75,80,60,65,90,102,472
+LC,Espurr,Keen Eye,Infiltrator,Own Tempo,62,48,54,63,60,68,355
+(PU),Meowstic,Keen Eye,Infiltrator,Prankster,74,48,76,83,81,104,466
+(PU),Meowstic-F,Keen Eye,Infiltrator,Competitive,74,48,76,83,81,104,466
+LC,Honedge,No Guard,,,45,80,100,35,37,28,325
+NU,Doublade,No Guard,,,59,110,150,45,49,35,448
+UUBL,Aegislash,Stance Change,,,60,50,140,50,140,60,500
+UUBL,Aegislash-Blade,Stance Change,,,60,140,50,140,50,60,500
+LC,Spritzee,Healer,Aroma Veil,,78,52,60,63,65,23,341
+PU,Aromatisse,Healer,Aroma Veil,,101,72,72,99,89,29,462
+NFE,Swirlix,Sweet Veil,Unburden,,62,48,66,59,57,49,341
+NUBL,Slurpuff,Sweet Veil,Unburden,,82,80,86,85,75,72,480
+LC,Inkay,Contrary,Suction Cups,Infiltrator,53,54,53,37,46,45,288
+(PU),Malamar,Contrary,Suction Cups,Infiltrator,86,92,88,68,75,73,482
+LC,Binacle,Tough Claws,Sniper,Pickpocket,42,52,67,39,56,50,306
+NUBL,Barbaracle,Tough Claws,Sniper,Pickpocket,72,105,115,54,86,68,500
+LC,Skrelp,Poison Point,Poison Touch,Adaptability,50,60,60,60,60,30,320
+NUBL,Dragalge,Poison Point,Poison Touch,Adaptability,65,75,90,97,123,44,494
+LC,Clauncher,Mega Launcher,,,50,53,62,58,63,44,330
+PUBL,Clawitzer,Mega Launcher,,,71,73,88,120,89,59,500
+LC,Helioptile,Dry Skin,Sand Veil,Solar Power,44,38,33,61,43,70,289
+NU,Heliolisk,Dry Skin,Sand Veil,Solar Power,62,55,52,109,94,109,481
+LC,Tyrunt,Strong Jaw,Sturdy,,58,89,77,45,45,48,362
+NU,Tyrantrum,Strong Jaw,Rock Head,,82,121,119,69,59,71,521
+LC,Amaura,Refrigerate,Snow Warning,,77,59,50,67,63,46,362
+(PU),Aurorus,Refrigerate,Snow Warning,,123,77,72,99,92,58,521
+NU,Sylveon,Cute Charm,Pixilate,,95,65,65,110,130,60,525
+UUBL,Hawlucha,Limber,Unburden,Mold Breaker,78,92,75,74,63,118,500
+(PU),Dedenne,Cheek Pouch,Pickup,Plus,67,58,57,81,67,101,431
+(PU),Carbink,Clear Body,Sturdy,,50,50,150,50,150,50,500
+LC,Goomy,Sap Sipper,Hydration,Gooey,45,50,35,55,75,40,300
+NFE,Sliggoo,Sap Sipper,Hydration,Gooey,68,75,53,83,113,60,452
+Illegal,Sliggoo-Hisui,Sap Sipper,Overcoat,Gooey,58,75,83,83,113,40,452
+NUBL,Goodra,Sap Sipper,Hydration,Gooey,90,100,70,110,150,80,600
+Illegal,Goodra-Hisui,Sap Sipper,Overcoat,Gooey,80,100,100,110,150,60,600
+RU,Klefki,Prankster,Magician,,57,80,91,80,87,75,470
+LC,Phantump,Natural Cure,Frisk,Harvest,43,70,48,50,60,38,309
+(PU),Trevenant,Natural Cure,Frisk,Harvest,85,110,76,65,82,56,474
+LC,Pumpkaboo,Pickup,Frisk,Insomnia,49,66,70,44,55,51,335
+LC,Pumpkaboo-Small,Pickup,Frisk,Insomnia,44,66,70,44,55,56,335
+LC,Pumpkaboo-Large,Pickup,Frisk,Insomnia,54,66,70,44,55,46,335
+LC,Pumpkaboo-Super,Pickup,Frisk,Insomnia,59,66,70,44,55,41,335
+(PU),Gourgeist,Pickup,Frisk,Insomnia,65,90,122,58,75,84,494
+(PU),Gourgeist-Small,Pickup,Frisk,Insomnia,55,85,122,58,75,99,494
+(PU),Gourgeist-Large,Pickup,Frisk,Insomnia,75,95,122,58,75,69,494
+(PU),Gourgeist-Super,Pickup,Frisk,Insomnia,85,100,122,58,75,54,494
+LC,Bergmite,Own Tempo,Ice Body,Sturdy,55,69,85,32,35,28,304
+(PU),Avalugg,Own Tempo,Ice Body,Sturdy,95,117,184,44,46,28,514
+Illegal,Avalugg-Hisui,Strong Jaw,Ice Body,Sturdy,95,127,184,34,36,38,514
+LC,Noibat,Frisk,Infiltrator,Telepathy,40,30,35,45,40,55,245
+RU,Noivern,Frisk,Infiltrator,Telepathy,85,70,80,97,80,123,535
+Uber,Xerneas,Fairy Aura,,,126,131,95,131,98,99,680
+Illegal,Xerneas-Neutral,Fairy Aura,,,126,131,95,131,98,99,680
+Uber,Yveltal,Dark Aura,,,126,131,95,131,98,99,680
+Uber,Zygarde,Aura Break(Power Construct),,,108,100,121,81,95,95,600
+UU,Zygarde-10%,Aura Break(Power Construct),,,54,100,71,61,85,115,486
+Uber,Zygarde-Complete,Power Construct,,,216,100,121,91,95,85,708
+NU,Diancie,Clear Body,,,50,100,150,100,150,50,600
+Illegal,Diancie-Mega,Magic Bounce,,,50,160,110,160,110,110,700
+Illegal,Hoopa,Magician,,,80,110,60,150,130,70,600
+Illegal,Hoopa-Unbound,Magician,,,80,160,60,170,130,80,680
+OU,Volcanion,Water Absorb,,,80,110,120,130,90,70,600
+LC,Rowlet,Overgrow,Long Reach,,68,55,55,50,50,42,320
+NFE,Dartrix,Overgrow,Long Reach,,78,75,75,70,70,52,420
+NU,Decidueye,Overgrow,Long Reach,,78,107,75,100,100,70,530
+Illegal,Decidueye-Hisui,Overgrow,Long Reach,,88,112,80,95,95,60,530
+LC,Litten,Blaze,Intimidate,,45,65,40,60,40,70,320
+NFE,Torracat,Blaze,Intimidate,,65,85,50,80,50,90,420
+RU,Incineroar,Blaze,Intimidate,,95,115,90,80,90,60,530
+LC,Popplio,Torrent,Liquid Voice,,50,54,54,66,56,40,320
+NFE,Brionne,Torrent,Liquid Voice,,60,69,69,91,81,50,420
+UU,Primarina,Torrent,Liquid Voice,,80,74,74,126,116,60,530
+Illegal,Pikipek,Keen Eye,Skill Link,Pickup,35,75,30,30,30,65,265
+Illegal,Trumbeak,Keen Eye,Skill Link,Pickup,55,85,50,40,50,75,355
+Illegal,Toucannon,Keen Eye,Skill Link,Sheer Force,80,120,75,75,75,60,485
+Illegal,Yungoos,Stakeout,Strong Jaw,Adaptability,48,70,30,30,30,45,253
+Illegal,Gumshoos,Stakeout,Strong Jaw,Adaptability,88,110,60,55,60,45,418
+Illegal,Gumshoos-Totem,Adaptability,,,88,110,60,55,60,45,418
+LC,Grubbin,Swarm,,,47,62,45,55,45,46,300
+NFE,Charjabug,Battery,,,57,82,95,55,75,36,400
+(PU),Vikavolt,Levitate,,,77,70,90,145,75,43,500
+Illegal,Vikavolt-Totem,Levitate,,,77,70,90,145,75,43,500
+Illegal,Crabrawler,Hyper Cutter,Iron Fist,Anger Point,47,82,57,42,47,63,338
+Illegal,Crabominable,Hyper Cutter,Iron Fist,Anger Point,97,132,77,62,67,43,478
+Illegal,Oricorio,Dancer,,,75,70,70,98,70,93,476
+Illegal,Oricorio-Pom-Pom,Dancer,,,75,70,70,98,70,93,476
+Illegal,Oricorio-Pa'u,Dancer,,,75,70,70,98,70,93,476
+Illegal,Oricorio-Sensu,Dancer,,,75,70,70,98,70,93,476
+NFE,Cutiefly,Honey Gather,Shield Dust,Sweet Veil,40,45,40,55,40,84,304
+PU,Ribombee,Honey Gather,Shield Dust,Sweet Veil,60,55,60,95,70,124,464
+Illegal,Ribombee-Totem,Sweet Veil,,,60,55,60,95,70,124,464
+LC,Rockruff,Keen Eye,Vital Spirit,Steadfast(Own Tempo),45,65,40,30,40,60,280
+PU,Lycanroc,Keen Eye,Sand Rush,Steadfast,75,115,65,55,65,112,487
+(PU),Lycanroc-Midnight,Keen Eye,Vital Spirit,No Guard,85,115,75,55,75,82,487
+UU,Lycanroc-Dusk,Tough Claws,,,75,117,65,55,65,110,487
+PU,Wishiwashi,Schooling,,,45,20,20,25,25,40,175
+PU,Wishiwashi-School,Schooling,,,45,140,130,140,135,30,620
+LC,Mareanie,Merciless,Limber,Regenerator,50,53,62,43,52,45,305
+OU,Toxapex,Merciless,Limber,Regenerator,50,63,152,53,142,35,495
+LC,Mudbray,Own Tempo,Stamina,Inner Focus,70,100,70,45,55,45,385
+NU,Mudsdale,Own Tempo,Stamina,Inner Focus,100,125,100,55,85,35,500
+LC,Dewpider,Water Bubble,Water Absorb,,38,40,52,40,72,27,269
+NU,Araquanid,Water Bubble,Water Absorb,,68,70,92,50,132,42,454
+Illegal,Araquanid-Totem,Water Bubble,,,68,70,92,50,132,42,454
+LC,Fomantis,Leaf Guard,Contrary,,40,55,35,50,35,35,250
+(PU),Lurantis,Leaf Guard,Contrary,,70,105,90,80,90,45,480
+Illegal,Lurantis-Totem,Leaf Guard,,,70,105,90,80,90,45,480
+LC,Morelull,Illuminate,Effect Spore,Rain Dish,40,35,55,65,75,15,285
+(PU),Shiinotic,Illuminate,Effect Spore,Rain Dish,60,45,80,90,100,30,405
+LC,Salandit,Corrosion,Oblivious,,48,44,40,71,40,77,320
+NU,Salazzle,Corrosion,Oblivious,,68,64,60,111,60,117,480
+Illegal,Salazzle-Totem,Corrosion,,,68,64,60,111,60,117,480
+LC,Stufful,Fluffy,Klutz,Cute Charm,70,75,50,45,50,50,340
+NUBL,Bewear,Fluffy,Klutz,Unnerve,120,125,80,55,60,60,500
+LC,Bounsweet,Leaf Guard,Oblivious,Sweet Veil,42,30,38,30,38,32,210
+NFE,Steenee,Leaf Guard,Oblivious,Sweet Veil,52,40,48,40,48,62,290
+NU,Tsareena,Leaf Guard,Queenly Majesty,Sweet Veil,72,120,98,50,98,72,510
+PU,Comfey,Flower Veil,Triage,Natural Cure,51,52,90,82,110,100,485
+(PU),Oranguru,Inner Focus,Telepathy,Symbiosis,90,60,80,90,110,60,490
+NU,Passimian,Receiver,Defiant,,100,120,90,40,60,80,490
+LC,Wimpod,Wimp Out,,,25,35,40,20,30,80,230
+RU,Golisopod,Emergency Exit,,,75,125,140,60,90,40,530
+LC,Sandygast,Water Compaction,Sand Veil,,55,55,80,70,45,15,320
+PU,Palossand,Water Compaction,Sand Veil,,85,75,110,100,75,35,480
+(PU),Pyukumuku,Innards Out,Unaware,,55,60,130,30,130,5,410
+NFE,Type: Null,Battle Armor,,,95,95,95,95,95,59,534
+(PU),Silvally,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Bug,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Dark,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Dragon,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Electric,RKS System,,,95,95,95,95,95,95,570
+PU,Silvally-Fairy,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Fighting,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Fire,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Flying,RKS System,,,95,95,95,95,95,95,570
+PU,Silvally-Ghost,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Grass,RKS System,,,95,95,95,95,95,95,570
+NU,Silvally-Ground,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Ice,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Poison,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Psychic,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Rock,RKS System,,,95,95,95,95,95,95,570
+NU,Silvally-Steel,RKS System,,,95,95,95,95,95,95,570
+(PU),Silvally-Water,RKS System,,,95,95,95,95,95,95,570
+Illegal,Minior,Shields Down,,,60,100,60,100,60,120,500
+Illegal,Minior-Meteor,Shields Down,,,60,60,100,60,100,60,440
+Illegal,Komala,Comatose,,,65,115,65,75,95,65,480
+(PU),Turtonator,Shell Armor,,,60,78,135,91,85,36,485
+PU,Togedemaru,Iron Barbs,Lightning Rod,Sturdy,65,98,63,40,73,96,435
+Illegal,Togedemaru-Totem,Sturdy,,,65,98,63,40,73,96,435
+RU,Mimikyu,Disguise,,,55,90,80,50,105,96,476
+RU,Mimikyu-Busted,Disguise,,,55,90,80,50,105,96,476
+Illegal,Mimikyu-Totem,Disguise,,,55,90,80,50,105,96,476
+Illegal,Mimikyu-Busted-Totem,Disguise,,,55,90,80,50,105,96,476
+Illegal,Bruxish,Dazzling,Strong Jaw,Wonder Skin,68,105,70,70,70,92,475
+PUBL,Drampa,Berserk,Sap Sipper,Cloud Nine,78,60,85,135,91,36,485
+NU,Dhelmise,Steelworker,,,70,131,100,86,90,40,517
+LC,Jangmo-o,Bulletproof,Soundproof,Overcoat,45,55,65,45,45,45,300
+NFE,Hakamo-o,Bulletproof,Soundproof,Overcoat,55,75,90,65,70,65,420
+UUBL,Kommo-o,Bulletproof,Soundproof,Overcoat,75,110,125,100,105,85,600
+Illegal,Kommo-o-Totem,Overcoat,,,75,110,125,100,105,85,600
+OU,Tapu Koko,Electric Surge,Telepathy,,70,115,85,95,75,130,570
+OU,Tapu Lele,Psychic Surge,Telepathy,,70,85,75,130,115,95,570
+UU,Tapu Bulu,Grassy Surge,Telepathy,,70,130,115,85,95,75,570
+OU,Tapu Fini,Misty Surge,Telepathy,,70,75,115,95,130,85,570
+LC,Cosmog,Unaware,,,43,29,31,29,31,37,200
+NFE,Cosmoem,Sturdy,,,43,29,131,29,131,37,400
+Uber,Solgaleo,Full Metal Body,,,137,137,107,113,89,97,680
+Uber,Lunala,Shadow Shield,,,137,113,89,137,107,97,680
+UU,Nihilego,Beast Boost,,,109,53,47,127,131,103,570
+OU,Buzzwole,Beast Boost,,,107,139,139,53,53,79,570
+Uber,Pheromosa,Beast Boost,,,71,137,37,137,37,151,570
+RU,Xurkitree,Beast Boost,,,83,89,71,173,71,83,570
+UU,Celesteela,Beast Boost,,,97,101,103,107,101,61,570
+OU,Kartana,Beast Boost,,,59,181,131,59,31,109,570
+NU,Guzzlord,Beast Boost,,,223,101,53,97,53,43,570
+RUBL,Necrozma,Prism Armor,,,97,107,101,127,89,79,600
+Uber,Necrozma-Dusk-Mane,Prism Armor,,,97,157,127,113,109,77,680
+Uber,Necrozma-Dawn-Wings,Prism Armor,,,97,113,109,157,127,77,680
+Illegal,Necrozma-Ultra,Neuroforce,,,97,167,97,167,97,129,754
+Uber,Magearna,Soul-Heart,,,80,95,115,130,115,65,600
+Uber,Magearna-Original,Soul-Heart,,,80,95,115,130,115,65,600
+Uber,Marshadow,Technician,,,90,125,80,90,90,125,600
+NFE,Poipole,Beast Boost,,,67,73,67,73,67,73,420
+Uber,Naganadel,Beast Boost,,,73,73,73,127,73,121,540
+NU,Stakataka,Beast Boost,,,61,131,211,53,101,13,570
+OU,Blacephalon,Beast Boost,,,53,127,53,151,79,107,570
+OU,Zeraora,Volt Absorb,,,88,112,75,102,80,143,600
+(PU),Meltan,Magnet Pull,,,46,65,65,55,35,34,300
+OU,Melmetal,Iron Fist,,,135,143,143,80,65,34,600
+AG,Melmetal-Gmax,Iron Fist,,,135,143,143,80,65,34,600
+LC,Grookey,Overgrow,Grassy Surge,,50,65,50,40,40,65,310
+NFE,Thwackey,Overgrow,Grassy Surge,,70,85,70,55,60,80,420
+OU,Rillaboom,Overgrow,Grassy Surge,,100,125,90,60,70,85,530
+AG,Rillaboom-Gmax,Overgrow,Grassy Surge,,100,125,90,60,70,85,530
+LC,Scorbunny,Blaze,Libero,,50,71,40,40,40,69,310
+NFE,Raboot,Blaze,Libero,,65,86,60,55,60,94,420
+Uber,Cinderace,Blaze,Libero,,80,116,75,65,75,119,530
+AG,Cinderace-Gmax,Blaze,Libero,,80,116,75,65,75,119,530
+LC,Sobble,Torrent,Sniper,,50,40,40,70,40,70,310
+NFE,Drizzile,Torrent,Sniper,,65,60,55,95,55,90,420
+NU,Inteleon,Torrent,Sniper,,70,85,65,125,65,120,530
+AG,Inteleon-Gmax,Torrent,Sniper,,70,85,65,125,65,120,530
+LC,Skwovet,Cheek Pouch,Gluttony,,70,55,55,35,35,25,275
+(PU),Greedent,Cheek Pouch,Gluttony,,120,95,95,55,75,20,460
+LC,Rookidee,Keen Eye,Unnerve,Big Pecks,38,47,35,33,35,57,245
+NFE,Corvisquire,Keen Eye,Unnerve,Big Pecks,68,67,55,43,55,77,365
+OU,Corviknight,Pressure,Unnerve,Mirror Armor,98,87,105,53,85,67,495
+AG,Corviknight-Gmax,Pressure,Unnerve,Mirror Armor,98,87,105,53,85,67,495
+LC,Blipbug,Swarm,Compound Eyes,Telepathy,25,20,20,25,45,45,180
+NFE,Dottler,Swarm,Compound Eyes,Telepathy,50,35,80,50,90,30,335
+(PU),Orbeetle,Swarm,Frisk,Telepathy,60,45,110,80,120,90,505
+AG,Orbeetle-Gmax,Swarm,Frisk,Telepathy,60,45,110,80,120,90,505
+LC,Nickit,Run Away,Unburden,Stakeout,40,28,28,47,52,50,245
+(PU),Thievul,Run Away,Unburden,Stakeout,70,58,58,87,92,90,455
+LC,Gossifleur,Cotton Down,Regenerator,Effect Spore,40,40,60,40,60,10,250
+PU,Eldegoss,Cotton Down,Regenerator,Effect Spore,60,50,90,80,120,60,460
+LC,Wooloo,Fluffy,Run Away,Bulletproof,42,40,55,40,45,48,270
+(PU),Dubwool,Fluffy,Steadfast,Bulletproof,72,80,100,60,90,88,490
+LC,Chewtle,Strong Jaw,Shell Armor,Swift Swim,50,64,50,38,38,44,284
+(PU),Drednaw,Strong Jaw,Shell Armor,Swift Swim,90,115,90,48,68,74,485
+AG,Drednaw-Gmax,Strong Jaw,Shell Armor,Swift Swim,90,115,90,48,68,74,485
+LC,Yamper,Ball Fetch,Rattled,,59,45,50,40,50,26,270
+(PU),Boltund,Strong Jaw,Competitive,,69,90,60,90,60,121,490
+LC,Rolycoly,Steam Engine,Heatproof,Flash Fire,30,40,50,40,50,30,240
+NFE,Carkol,Steam Engine,Flame Body,Flash Fire,80,60,90,60,70,50,410
+(PU),Coalossal,Steam Engine,Flame Body,Flash Fire,110,80,120,80,90,30,510
+AG,Coalossal-Gmax,Steam Engine,Flame Body,Flash Fire,110,80,120,80,90,30,510
+LC,Applin,Ripen,Gluttony,Bulletproof,40,40,80,40,40,20,260
+(PU),Flapple,Ripen,Gluttony,Hustle,70,110,80,95,60,70,485
+AG,Flapple-Gmax,Ripen,Gluttony,Hustle,70,110,80,95,60,70,485
+(PU),Appletun,Ripen,Gluttony,Thick Fat,110,85,80,100,80,30,485
+AG,Appletun-Gmax,Ripen,Gluttony,Thick Fat,110,85,80,100,80,30,485
+LC,Silicobra,Sand Spit,Shed Skin,Sand Veil,52,57,75,35,50,46,315
+PU,Sandaconda,Sand Spit,Shed Skin,Sand Veil,72,107,125,65,70,71,510
+AG,Sandaconda-Gmax,Sand Spit,Shed Skin,Sand Veil,72,107,125,65,70,71,510
+(PU),Cramorant,Gulp Missile,,,70,85,55,85,95,85,475
+(PU),Cramorant-Gulping,Gulp Missile,,,70,85,55,85,95,85,475
+(PU),Cramorant-Gorging,Gulp Missile,,,70,85,55,85,95,85,475
+LC,Arrokuda,Swift Swim,Propeller Tail,,41,63,40,40,30,66,280
+OU,Barraskewda,Swift Swim,Propeller Tail,,61,123,60,60,50,136,490
+LC,Toxel,Rattled,Static,Klutz,40,38,35,54,35,40,242
+RU,Toxtricity,Punk Rock,Plus,Technician,75,98,70,114,70,75,502
+RU,Toxtricity-Low-Key,Punk Rock,Minus,Technician,75,98,70,114,70,75,502
+AG,Toxtricity-Gmax,Punk Rock,Plus,Technician,75,98,70,114,70,75,502
+AG,Toxtricity-Low-Key-Gmax,Punk Rock,Minus,Technician,75,98,70,114,70,75,502
+LC,Sizzlipede,Flash Fire,White Smoke,Flame Body,50,65,45,50,50,45,305
+(PU),Centiskorch,Flash Fire,White Smoke,Flame Body,100,115,65,90,90,65,525
+AG,Centiskorch-Gmax,Flash Fire,White Smoke,Flame Body,100,115,65,90,90,65,525
+LC,Clobbopus,Limber,Technician,,50,68,60,50,50,32,310
+(PU),Grapploct,Limber,Technician,,80,118,90,70,80,42,480
+LC,Sinistea,Weak Armor,Cursed Body,,40,45,45,74,54,50,308
+LC,Sinistea-Antique,Weak Armor,Cursed Body,,40,45,45,74,54,50,308
+RU,Polteageist,Weak Armor,Cursed Body,,60,65,65,134,114,70,508
+RU,Polteageist-Antique,Weak Armor,Cursed Body,,60,65,65,134,114,70,508
+LC,Hatenna,Healer,Anticipation,Magic Bounce,42,30,45,56,53,39,265
+NFE,Hattrem,Healer,Anticipation,Magic Bounce,57,40,65,86,73,49,370
+UU,Hatterene,Healer,Anticipation,Magic Bounce,57,90,95,136,103,29,510
+AG,Hatterene-Gmax,Healer,Anticipation,Magic Bounce,57,90,95,136,103,29,510
+LC,Impidimp,Prankster,Frisk,Pickpocket,45,45,30,55,40,50,265
+NFE,Morgrem,Prankster,Frisk,Pickpocket,65,60,45,75,55,70,370
+NU,Grimmsnarl,Prankster,Frisk,Pickpocket,95,120,65,95,75,60,510
+AG,Grimmsnarl-Gmax,Prankster,Frisk,Pickpocket,95,120,65,95,75,60,510
+RUBL,Obstagoon,Reckless,Guts,Defiant,93,90,101,60,81,95,520
+PU,Perrserker,Battle Armor,Tough Claws,Steely Spirit,70,110,100,50,60,50,440
+(PU),Cursola,Weak Armor,Perish Body,,60,95,50,145,130,30,510
+NU,Sirfetch’d,Steadfast,Scrappy,,62,135,95,68,82,65,507
+(PU),Mr. Rime,Tangled Feet,Screen Cleaner,Ice Body,80,85,75,110,100,70,520
+(PU),Runerigus,Wandering Spirit,,,58,95,145,50,105,30,483
+LC,Milcery,Sweet Veil,Aroma Veil,,45,40,40,50,61,34,270
+(PU),Alcremie,Sweet Veil,Aroma Veil,,65,60,75,110,121,64,495
+AG,Alcremie-Gmax,Sweet Veil,Aroma Veil,,65,60,75,110,121,64,495
+(PU),Falinks,Battle Armor,Defiant,,65,100,100,70,60,75,470
+(PU),Pincurchin,Lightning Rod,Electric Surge,,48,101,95,91,85,15,435
+LC,Snom,Shield Dust,Ice Scales,,30,25,35,45,30,20,185
+PU,Frosmoth,Shield Dust,Ice Scales,,70,65,60,125,90,65,475
+(PU),Stonjourner,Power Spot,,,100,125,135,20,20,70,470
+(PU),Eiscue,Ice Face,,,75,80,110,65,90,50,470
+(PU),Eiscue-Noice,Ice Face,,,75,80,70,65,50,130,470
+NUBL,Indeedee,Inner Focus,Synchronize,Psychic Surge,60,65,55,105,95,95,475
+NU,Indeedee-F,Own Tempo,Synchronize,Psychic Surge,70,55,65,95,105,85,475
+(PU),Morpeko,Hunger Switch,,,58,95,58,70,58,97,436
+(PU),Morpeko-Hangry,Hunger Switch,,,58,95,58,70,58,97,436
+LC,Cufant,Sheer Force,Heavy Metal,,72,80,49,40,49,40,330
+NU,Copperajah,Sheer Force,Heavy Metal,,122,130,69,80,69,30,500
+AG,Copperajah-Gmax,Sheer Force,Heavy Metal,,122,130,69,80,69,30,500
+UUBL,Dracozolt,Volt Absorb,Hustle,Sand Rush,90,100,90,80,70,75,505
+UUBL,Arctozolt,Volt Absorb,Static,Slush Rush,90,100,90,90,80,55,505
+Uber,Dracovish,Water Absorb,Strong Jaw,Sand Rush,90,90,100,70,80,75,505
+(PU),Arctovish,Water Absorb,Ice Body,Slush Rush,90,90,100,80,90,55,505
+PUBL,Duraludon,Light Metal,Heavy Metal,Stalwart,70,95,115,120,50,85,535
+AG,Duraludon-Gmax,Light Metal,Heavy Metal,Stalwart,70,95,115,120,50,85,535
+LC,Dreepy,Clear Body,Infiltrator,Cursed Body,28,60,30,40,30,82,270
+NFE,Drakloak,Clear Body,Infiltrator,Cursed Body,68,80,50,60,50,102,410
+OU,Dragapult,Clear Body,Infiltrator,Cursed Body,88,120,75,100,75,142,600
+AG,Zacian,Intrepid Sword,,,92,130,115,80,115,138,670
+AG,Zacian-Crowned,Intrepid Sword,,,92,170,115,80,115,148,720
+Uber,Zamazenta,Dauntless Shield,,,92,130,115,80,115,138,670
+Uber,Zamazenta-Crowned,Dauntless Shield,,,92,130,145,80,145,128,720
+Uber,Eternatus,Pressure,,,140,85,95,145,95,130,690
+Illegal,Eternatus-Eternamax,Pressure,,,255,115,250,125,250,130,1125
+NFE,Kubfu,Inner Focus,,,60,90,60,53,50,72,385
+Uber,Urshifu,Unseen Fist,,,100,130,100,63,60,97,550
+OU,Urshifu-Rapid-Strike,Unseen Fist,,,100,130,100,63,60,97,550
+AG,Urshifu-Gmax,Unseen Fist,,,100,130,100,63,60,97,550
+AG,Urshifu-Rapid-Strike-Gmax,Unseen Fist,,,100,130,100,63,60,97,550
+UU,Zarude,Leaf Guard,,,105,120,105,70,95,105,600
+UU,Zarude-Dada,Leaf Guard,,,105,120,105,70,95,105,600
+OU,Regieleki,Transistor,,,80,100,50,100,50,200,580
+NUBL,Regidrago,Dragon's Maw,,,200,100,50,100,50,80,580
+PU,Glastrier,Chilling Neigh,,,100,145,130,65,110,30,580
+Uber,Spectrier,Grim Neigh,,,100,65,60,145,80,130,580
+(PU),Calyrex,Unnerve,,,100,80,80,80,80,80,500
+Uber,Calyrex-Ice,As One (Glastrier),,,100,165,150,85,130,50,680
+Uber,Calyrex-Shadow,As One (Spectrier),,,100,85,80,165,100,150,680
+Illegal,Wyrdeer,Intimidate,Frisk,Sap Sipper,103,105,72,105,75,65,525
+Illegal,Kleavor,Swarm,Sheer Force,Steadfast,70,135,95,45,70,85,500
+Illegal,Ursaluna,Guts,Bulletproof,Unnerve,130,140,105,45,80,50,550
+Illegal,Basculegion,Rattled,Adaptability,Mold Breaker,120,112,65,80,75,78,530
+Illegal,Basculegion-F,Rattled,Adaptability,Mold Breaker,120,92,65,100,75,78,530
+Illegal,Sneasler,Pressure,Poison Touch,,80,130,60,40,80,120,510
+Illegal,Overqwil,Poison Point,Swift Swim,Intimidate,85,115,95,65,65,85,510
+Illegal,Enamorus,Healer,Contrary,,74,115,70,135,80,106,580
+Illegal,Enamorus-Therian,Overcoat,,,74,115,110,135,100,46,580
+Illegal,MissingNo.,,,,33,136,0,6,6,29,210
+CAP LC,Syclar,Compound Eyes,Snow Cloak,Ice Body,40,76,45,74,39,91,365
+CAP,Syclant,Compound Eyes,Mountaineer,Ice Body,70,116,70,114,64,121,555
+CAP,Revenankh,Shed Skin,Air Lock,Triage,90,105,90,65,110,65,525
+CAP LC,Embirch,Reckless,Leaf Guard,Chlorophyll,60,40,55,65,40,60,320
+CAP NFE,Flarelm,Rock Head,Battle Armor,White Smoke,90,50,95,75,70,40,420
+CAP,Pyroak,Rock Head,Battle Armor,Contrary,120,70,105,75,90,60,520
+CAP LC,Breezi,Unburden,Own Tempo,Frisk,50,46,69,60,50,75,350
+CAP,Fidgit,Persistent,Vital Spirit,Frisk,95,76,109,90,80,105,555
+CAP LC,Rebble,Levitate,Solid Rock,Sniper,45,25,65,75,55,80,345
+CAP NFE,Tactite,Levitate,Technician,Sniper,70,40,65,100,65,95,435
+CAP,Stratagem,Levitate,Technician,Sniper,90,60,65,120,70,130,535
+CAP LC,Privatyke,Unaware,Technician,,65,75,65,40,60,45,350
+CAP,Arghonaut,Unaware,Technician,,105,110,95,70,100,75,555
+CAP,Kitsunoh,Frisk,Limber,Iron Fist,80,103,85,55,80,110,513
+CAP,Cyclohm,Shield Dust,Static,Damp,108,60,118,112,70,80,548
+CAP,Colossoil,Rebound,Guts,Unnerve,133,122,72,71,72,95,565
+CAP,Krilowatt,Trace,Magic Guard,Minus,151,84,73,83,74,105,570
+CAP LC,Voodoll,Volt Absorb,Lightning Rod,Cursed Body,55,40,55,75,50,70,345
+CAP,Voodoom,Volt Absorb,Lightning Rod,Cursed Body,90,85,80,130,80,110,575
+CAP LC,Scratchet,Scrappy,Prankster,Vital Spirit,55,85,80,20,70,40,350
+CAP,Tomohawk,Intimidate,Prankster,Justified,105,60,90,115,80,85,535
+CAP LC,Necturine,Anticipation,Telepathy,,49,55,60,50,75,51,340
+CAP,Necturna,Forewarn,Telepathy,,64,120,100,85,120,58,547
+CAP,Mollux,Dry Skin,Illuminate,,95,45,83,131,105,76,535
+CAP LC,Cupra,Shield Dust,Keen Eye,Magic Guard,50,60,49,67,30,44,300
+CAP NFE,Argalis,Shed Skin,Compound Eyes,Overcoat,60,90,89,87,40,54,420
+CAP,Aurumoth,Weak Armor,No Guard,Light Metal,110,120,99,117,60,94,600
+CAP LC,Brattler,Harvest,Infiltrator,Rattled,80,70,40,20,90,30,330
+CAP,Malaconda,Harvest,Infiltrator,Drought,115,100,60,40,130,55,500
+CAP LC,Cawdet,Keen Eye,Volt Absorb,Big Pecks,35,72,85,40,55,88,375
+CAP,Cawmodore,Intimidate,Volt Absorb,Big Pecks,50,92,130,65,75,118,530
+CAP LC,Volkritter,Anticipation,Infiltrator,Unnerve,60,30,50,80,60,70,350
+CAP,Volkraken,Analytic,Infiltrator,Pressure,100,45,80,135,100,95,555
+CAP LC,Snugglow,Storm Drain,Vital Spirit,Telepathy,40,37,79,91,68,70,385
+CAP,Plasmanta,Storm Drain,Vital Spirit,Telepathy,60,57,119,131,98,100,565
+CAP LC,Floatoy,Water Veil,Heatproof,Swift Swim,48,70,40,70,30,77,335
+CAP NFE,Caimanoe,Water Veil,Heatproof,Light Metal,73,85,65,80,40,87,430
+CAP,Naviathan,Guts,Heatproof,Light Metal,103,110,90,95,65,97,560
+CAP,Crucibelle,Regenerator,Mold Breaker,Liquid Ooze,106,105,65,75,85,104,540
+CAP,Crucibelle-Mega,Magic Guard,,,106,135,75,91,125,108,640
+CAP LC,Pluffle,Natural Cure,Aroma Veil,Friend Guard,74,38,51,65,78,49,355
+CAP,Kerfluffle,Natural Cure,Aroma Veil,Friend Guard,84,78,86,115,88,119,570
+CAP,Pajantom,Comatose,,,84,133,71,51,111,101,551
+CAP LC,Mumbao,Solar Power,Trace,Overcoat,55,30,64,87,73,66,375
+CAP,Jumbao,Drought,Trace,Overcoat,92,63,97,124,104,96,576
+CAP LC,Fawnifer,Overgrow,Lightning Rod,,49,61,42,52,40,76,320
+CAP NFE,Electrelk,Overgrow,Galvanize,,59,81,67,57,55,101,420
+CAP,Caribolt,Overgrow,Galvanize,,84,106,82,77,80,106,535
+CAP LC,Smogecko,Blaze,Technician,,48,66,43,58,48,56,319
+CAP NFE,Smoguana,Blaze,Technician,,68,86,53,68,68,76,419
+CAP,Smokomodo,Blaze,Technician,,88,116,67,88,78,97,534
+CAP LC,Swirlpool,Torrent,Poison Heal,,61,49,70,50,62,28,320
+CAP NFE,Coribalis,Torrent,Poison Heal,,76,69,90,65,77,43,420
+CAP,Snaelstrom,Torrent,Poison Heal,,91,94,110,80,97,63,535
+CAP LC,Justyke,Levitate,Stalwart,Justified,72,70,56,83,68,30,379
+CAP,Equilibra,Levitate,Stalwart,Justified,102,50,96,121,118,60,547
+CAP LC,Solotl,Regenerator,Vital Spirit,Magician,68,48,34,72,24,84,330
+CAP,Astrolotl,Regenerator,Vital Spirit,Magician,108,108,74,92,64,114,560
+CAP LC,Miasmite,Neutralizing Gas,Hyper Cutter,Compound Eyes,40,85,60,52,52,44,333
+CAP,Miasmaw,Neutralizing Gas,Hyper Cutter,Compound Eyes,85,135,60,115,85,92,572
+CAP,Chromera,Color Change,,,85,85,115,115,100,100,600
+CAP LC,Nohface,Frisk,Limber,Unnerve,50,73,50,30,50,80,333
+CAP LC,Monohm,Shield Dust,Static,Damp,53,40,58,67,55,55,328
+CAP NFE,Duohm,Shield Dust,Static,Damp,88,40,103,77,60,60,428
+CAP LC,Dorsoil,Oblivious,Guts,Unnerve,103,72,52,61,52,65,405
+CAP LC,Protowatt,Trace,Magic Guard,Minus,51,44,33,43,34,65,270
+CAP,Venomicon,Stamina,Power of Alchemy,,85,70,113,118,90,64,540
+CAP,Venomicon-Epilogue,Tinted Lens,,,85,102,85,63,85,120,540
+CAP,Saharaja,Water Absorb,Serene Grace,,70,120,105,65,130,90,580
+Illegal,Pokestar Smeargle,Own Tempo,Technician,Moody,55,20,35,20,45,75,250
+Illegal,Pokestar UFO,Levitate,,,100,100,100,100,100,100,600
+Illegal,Pokestar UFO-2,Levitate,,,100,100,100,100,100,100,600
+Illegal,Pokestar Brycen-Man,Levitate,,,100,100,100,100,100,100,600
+Illegal,Pokestar MT,Analytic,,,100,100,100,100,100,100,600
+Illegal,Pokestar MT2,Flash Fire,,,100,100,100,100,100,100,600
+Illegal,Pokestar Transport,Motor Drive,,,100,100,100,100,100,100,600
+Illegal,Pokestar Giant,Huge Power,,,100,100,100,100,100,100,600
+Illegal,Pokestar Humanoid,Insomnia,,,100,100,100,100,100,100,600
+Illegal,Pokestar Monster,Pressure,,,100,100,100,100,100,100,600
+Illegal,Pokestar F-00,Volt Absorb,,,100,100,100,100,100,100,600
+Illegal,Pokestar F-002,Reckless,,,100,100,100,100,100,100,600
+Illegal,Pokestar Spirit,Wonder Guard,,,100,100,100,100,100,100,600
+Illegal,Pokestar Black Door,Early Bird,,,100,100,100,100,100,100,600
+Illegal,Pokestar White Door,Blaze,,,100,100,100,100,100,100,600
+Illegal,Pokestar Black Belt,Huge Power,,,100,100,100,100,100,100,600
+Illegal,Pokestar UFO-PropU2,Levitate,,,100,100,100,100,100,100,600

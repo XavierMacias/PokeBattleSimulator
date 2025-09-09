@@ -54,4 +54,16 @@ public class Type {
     public void setInmunities(ArrayList<Integer> inmunities) {
         this.inmunities = inmunities;
     }
+
+    @Override
+    public String toString() {
+        return "Type{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", displayName='" + displayName + '\'' +
+                ", debilities=" + debilities +
+                ", resistances=" + resistances +
+                ", inmunities=" + inmunities +
+                '}';
+    }
 }

@@ -13,8 +13,10 @@ import java.io.IOException;
 public class Main {
     private static final String TYPES = "json/types.json";
     private static final String ABILITIES = "json/abilities.json";
+    private static final String MOVEMENTS = "json/movements.json";
+    private static final String SPECIES = "json/species.json";
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Pokémon Battle Simulator\n");
@@ -47,11 +49,27 @@ public class Main {
             }
         }
 
-        Type t = GlobalVariables.getInstance().getPokemonTypes().get(7);
+        File f3 = new File(MOVEMENTS);
+        //GlobalVariables.getInstance().setPokemonMovements(lfj.loadMovements(MOVEMENTS));
+        if(f3.exists() && !f3.isDirectory()) {
+            GlobalVariables.getInstance().setPokemonMovements(lfj.loadMovements(MOVEMENTS));
+        } else {
+            try {
+                getApi.getMoves();
+                stj.saveMovement(GlobalVariables.getInstance().getPokemonMovements(), MOVEMENTS);
+            } catch (IOException e) {
+                throw new RuntimeException(e);
+            }
+        }
 
-        System.out.println(t.getDebilities());
-        System.out.println(t.getDisplayName());
+        GlobalVariables.getInstance().setPokemonSpecies(lfj.loadSpecies(SPECIES));
 
-        GlobalVariables.getInstance().getPokemonAbilities().get(101).printAbility();
+        //getApi.getSpecies();
+
+        for(int i=0;i<GlobalVariables.getInstance().getPokemonSpecies().size();i++) {
+            System.out.println(GlobalVariables.getInstance().getPokemonSpecies().get(i).toString() + "\n");
+        }
+
+
     }
 }

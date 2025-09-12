@@ -1,4 +1,6 @@
 import Data.Ability;
+import Data.Pokemon;
+import Data.Specie;
 import Data.Type;
 import Utilities.GetApi;
 import Utilities.GlobalVariables;
@@ -66,10 +68,10 @@ public class Main {
 
         //getApi.getSpecies();
 
-        for(int i=0;i<GlobalVariables.getInstance().getPokemonSpecies().size();i++) {
-            System.out.println(GlobalVariables.getInstance().getPokemonSpecies().get(i).toString() + "\n");
-        }
+        Specie bulbasaur = GlobalVariables.getInstance().getSpecieFromId(1);
+        Pokemon poke = new Pokemon(bulbasaur, 13);
 
+        System.out.println(poke);
 
     }
 }

@@ -60,10 +60,37 @@ public class Specie {
         this.evolutions = evolutions;
     }
 
+    public String getName() {
+        return name;
+    }
+
     public int getId() {
         return id;
     }
 
+    public int getBaseFriendship() {
+        return baseFriendship;
+    }
+
+    public double getFemaleRate() {
+        return femaleRate;
+    }
+
+    public LevelingRate getLevelingRate() {
+        return levelingRate;
+    }
+
+    public ArrayList<Ability> getAbilities() {
+        return abilities;
+    }
+
+    public MultiValuedMap<Integer, Movement> getMoveset() {
+        return moveset;
+    }
+
+    public int getStats(int index) {
+        return stats.get(index);
+    }
 
     @Override
     public String toString() {

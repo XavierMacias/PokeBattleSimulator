@@ -170,7 +170,7 @@ public class LoadFromJson {
                 JSONArray evolutionsJSON = moveJSON.getJSONArray("evolutions");
                 ArrayList<Evolution> evolutions = new ArrayList<>();
                 for (int j = 0; j < evolutionsJSON.length(); j++) {
-                    System.out.println(evolutionsJSON.getJSONObject(j));
+                    //System.out.println(evolutionsJSON.getJSONObject(j));
                     Evolution evo = new Evolution(evolutionsJSON.getJSONObject(j).getInt("pokemonID"),
                             evolutionsJSON.getJSONObject(j).getEnum(EvolutionMethod.class, "evolutionMethod"),
                             evolutionsJSON.getJSONObject(j).getString("parameter"));
